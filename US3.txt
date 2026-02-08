@@ -1,0 +1,4268 @@
+Folder highlights
+Generated 500 synthetic User Stories for testing.
+
+1. As a developer, I want to login to the system.
+
+Acceptance Criteria:
+
+The password must be less than six characters.
+The file name accepts alphanumeric with length of eight.
+
+2. As a user, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The description is required.
+The zip code should be greater than nine characters.
+The description must have a minimum of three digits characters.
+The account number email must be valid format.
+
+3. As a user, I want to transfer money.
+
+Acceptance Criteria:
+
+The search query must be letters and exactly six.
+The file name time must be HH:MM.
+The account number must be less than six characters.
+
+4. As a user, I want to upload a file.
+
+Acceptance Criteria:
+
+The account number time must be hh:mm:ss.
+The quantity cannot contain letters.
+The mailid should contain digits values.
+The password must have a minimum of ten special characters characters.
+The zip code must be less than one characters.
+
+5. As a user, I want to generate a report.
+
+Acceptance Criteria:
+
+The email date must be in the format YYYY-MM-DD.
+The search query should be greater than three characters.
+The email must be special characters and maximum of ten.
+The title is required.
+
+6. As a student, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The mailid cannot contain letters.
+The file name must be numbers and maximum of ten.
+
+7. As a developer, I want to upload a file.
+
+Acceptance Criteria:
+
+The account number should contain digits values.
+The account number should contain letters values.
+The account number must be less than nine characters.
+The username should be maximum of ten digits.
+The email must include alphanumeric and lowercase.
+
+8. As a employee, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The title cannot contain uppercase.
+The email should be greater than two characters.
+
+9. As a employee, I want to view my profile.
+
+Acceptance Criteria:
+
+The date of birth time must be hh:mm:ss.
+The password should be greater than one characters.
+The transaction id is required.
+
+10. As a event attendee, I want to register for an account.
+
+Acceptance Criteria:
+
+The account number is required.
+The comment should not begin with digits.
+The comment should contain alphabetic values.
+
+11. As a customer, I want to transfer money.
+
+Acceptance Criteria:
+
+The age is required.
+The email email must be valid format.
+The phone number should be maximum of ten numeric.
+The transaction id date must be in the format DD/MM/YYYY.
+The password email must be valid format.
+
+12. As a teacher, I want to apply for a job.
+
+Acceptance Criteria:
+
+The mailid must be numbers and length of eight.
+The account number accepts alphanumeric with minimum of five.
+The review should be greater than six characters.
+
+13. As a student, I want to upload a file.
+
+Acceptance Criteria:
+
+The phone number should be between five and ten alphabetic.
+The address date must be in the format DD/MM/YYYY.
+The search query cannot contain special characters.
+
+14. As a client, I want to upload a file.
+
+Acceptance Criteria:
+
+The file name email must be valid format.
+The address time must be HH:MM.
+The transaction id is optional.
+The age should be exactly six letters.
+The zip code must include uppercase and numeric.
+
+15. As a patient, I want to send a message.
+
+Acceptance Criteria:
+
+The email time must be HH:MM.
+The search query email must be valid format.
+The file name should be exactly six uppercase.
+The date of birth should be maximum of ten numeric.
+The review must include uppercase and numbers.
+
+16. As a manager, I want to write a review.
+
+Acceptance Criteria:
+
+The description date must be in the format YYYY-MM-DD.
+The title should be greater than nine characters.
+The account number is required.
+The price should be length of eight special characters.
+The dob should be maximum of ten alphanumeric.
+
+17. As a patient, I want to search for products.
+
+Acceptance Criteria:
+
+The zip code time must be hh:mm:ss.
+The review must be special characters and exactly six.
+The quantity date must be in the format DD/MM/YYYY.
+
+18. As a student, I want to send a message.
+
+Acceptance Criteria:
+
+The address email must be valid format.
+The age must include special characters and alphabetic.
+The mailid email must be valid format.
+The mailid must have a minimum of two lowercase characters.
+
+19. As a doctor, I want to transfer money.
+
+Acceptance Criteria:
+
+The email is required.
+The price time must be HH:MM.
+The age email must be valid format.
+The file name is required.
+
+20. As a event attendee, I want to submit a form.
+
+Acceptance Criteria:
+
+The email accepts special characters with exactly six.
+The file name accepts numbers with between five and ten.
+The price must have a minimum of ten letters characters.
+The quantity must have a minimum of ten uppercase characters.
+
+21. As a event attendee, I want to register for an account.
+
+Acceptance Criteria:
+
+The mailid must be less than four characters.
+The price accepts alphanumeric with between five and ten.
+The comment cannot contain numbers.
+The phone number email must be valid format.
+
+22. As a client, I want to apply for a job.
+
+Acceptance Criteria:
+
+The search query time must be hh:mm:ss.
+The file name is required.
+The email must be special characters and exactly six.
+The password must be less than four characters.
+
+23. As a patient, I want to view my profile.
+
+Acceptance Criteria:
+
+The age should contain uppercase values.
+The email should not begin with special characters.
+The zip code should contain uppercase values.
+
+24. As a developer, I want to register for an account.
+
+Acceptance Criteria:
+
+The title should be greater than three characters.
+The price date must be in the format MM/DD/YYYY.
+The quantity must be less than nine characters.
+
+25. As a client, I want to search for products.
+
+Acceptance Criteria:
+
+The mailid date must be in the format MM/DD/YYYY.
+The dob should be greater than one characters.
+The description should contain numeric values.
+
+26. As a admin, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The dob is required.
+The email should be greater than five characters.
+The phone number accepts numbers with maximum of ten.
+The title should not begin with letters.
+
+27. As a candidate, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The password must include lowercase and numeric.
+The review must be less than four characters.
+The price time must be HH:MM.
+The age cannot contain numeric.
+The price email must be valid format.
+
+28. As a employee, I want to submit a form.
+
+Acceptance Criteria:
+
+The review must have a minimum of four lowercase characters.
+The account number email must be valid format.
+The search query must have a minimum of six lowercase characters.
+
+29. As a admin, I want to search for products.
+
+Acceptance Criteria:
+
+The address must include letters and lowercase.
+The username date must be in the format DD/MM/YYYY.
+
+30. As a shopper, I want to apply for a job.
+
+Acceptance Criteria:
+
+The date of birth cannot contain lowercase.
+The date of birth should not begin with numeric.
+The username date must be in the format DD/MM/YYYY.
+The transaction id email must be valid format.
+The age must be alphabetic and length of eight.
+
+31. As a employee, I want to view my profile.
+
+Acceptance Criteria:
+
+The transaction id should contain digits values.
+The zip code date must be in the format YYYY-MM-DD.
+
+32. As a doctor, I want to apply for a job.
+
+Acceptance Criteria:
+
+The comment date must be in the format DD/MM/YYYY.
+The zip code cannot contain special characters.
+The account number is optional.
+
+33. As a tester, I want to write a review.
+
+Acceptance Criteria:
+
+The description time must be HH:MM.
+The username date must be in the format YYYY-MM-DD.
+
+34. As a manager, I want to search for products.
+
+Acceptance Criteria:
+
+The transaction id should be greater than five characters.
+The mailid time must be hh:mm:ss.
+
+35. As a employee, I want to write a review.
+
+Acceptance Criteria:
+
+The search query should contain alphanumeric values.
+The description is required.
+The review should be greater than four lowercase.
+The phone number must be letters and maximum of ten.
+
+36. As a patient, I want to login to the system.
+
+Acceptance Criteria:
+
+The age is optional.
+The transaction id is optional.
+The quantity must be lowercase and at least three.
+
+37. As a developer, I want to submit a form.
+
+Acceptance Criteria:
+
+The review time must be hh:mm:ss.
+The quantity is required.
+
+38. As a developer, I want to upload a file.
+
+Acceptance Criteria:
+
+The description should contain digits values.
+The mailid email must be valid format.
+The quantity should be at least three lowercase.
+
+39. As a admin, I want to reset my password.
+
+Acceptance Criteria:
+
+The account number should contain letters values.
+The dob email must be valid format.
+The description must have a minimum of five alphabetic characters.
+
+40. As a customer, I want to upload a file.
+
+Acceptance Criteria:
+
+The title must be less than eight characters.
+The email is optional.
+The age accepts alphanumeric with length of eight.
+The description date must be in the format DD/MM/YYYY.
+
+41. As a developer, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The age should not begin with uppercase.
+The email accepts digits with at least three.
+The address should contain digits values.
+The email must be less than six characters.
+The description is optional.
+
+42. As a shopper, I want to send a message.
+
+Acceptance Criteria:
+
+The price is optional.
+The dob must be less than three characters.
+The mailid is required.
+The date of birth cannot contain alphabetic.
+
+43. As a manager, I want to book an appointment.
+
+Acceptance Criteria:
+
+The email should not begin with alphanumeric.
+The transaction id is required.
+The account number should be minimum of five letters.
+The description accepts numeric with between five and ten.
+
+44. As a patient, I want to search for products.
+
+Acceptance Criteria:
+
+The mailid email must be valid format.
+The zip code must have a minimum of eight lowercase characters.
+
+45. As a event attendee, I want to book an appointment.
+
+Acceptance Criteria:
+
+The zip code should be between five and ten numbers.
+The account number accepts numeric with length of eight.
+The title should be less than seven special characters.
+The password accepts letters with minimum of five.
+
+46. As a admin, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The file name should be exactly six alphabetic.
+The age must include special characters and special characters.
+
+47. As a candidate, I want to generate a report.
+
+Acceptance Criteria:
+
+The dob time must be hh:mm:ss.
+The account number should not begin with special characters.
+The review should be less than seven special characters.
+
+48. As a candidate, I want to transfer money.
+
+Acceptance Criteria:
+
+The phone number should be greater than eight characters.
+The password should be greater than three characters.
+The date of birth should contain numbers values.
+The title must have a minimum of two uppercase characters.
+The quantity must have a minimum of four numeric characters.
+
+49. As a customer, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The phone number should be less than seven alphanumeric.
+The phone number should be at least three letters.
+The file name must have a minimum of four alphabetic characters.
+
+50. As a frequent traveler, I want to send a message.
+
+Acceptance Criteria:
+
+The password time must be HH:MM.
+The price date must be in the format DD/MM/YYYY.
+The password must have a minimum of four numeric characters.
+The account number should not begin with numbers.
+The date of birth must be less than two characters.
+
+51. As a shopper, I want to apply for a job.
+
+Acceptance Criteria:
+
+The username time must be hh:mm:ss.
+The price must be less than nine characters.
+The account number date must be in the format DD/MM/YYYY.
+The age must include lowercase and special characters.
+
+52. As a teacher, I want to register for an account.
+
+Acceptance Criteria:
+
+The title cannot contain numbers.
+The title should contain special characters values.
+The description date must be in the format YYYY-MM-DD.
+The password should contain digits values.
+The age should be greater than eight characters.
+
+53. As a candidate, I want to book an appointment.
+
+Acceptance Criteria:
+
+The zip code should not begin with alphabetic.
+The username date must be in the format MM/DD/YYYY.
+The phone number should be greater than two characters.
+The title should contain alphabetic values.
+
+54. As a client, I want to view my profile.
+
+Acceptance Criteria:
+
+The title should be less than seven uppercase.
+The phone number must have a minimum of one letters characters.
+The account number must have a minimum of three special characters characters.
+
+55. As a doctor, I want to upload a file.
+
+Acceptance Criteria:
+
+The password accepts alphanumeric with length of eight.
+The transaction id date must be in the format MM/DD/YYYY.
+
+56. As a developer, I want to transfer money.
+
+Acceptance Criteria:
+
+The comment should contain digits values.
+The file name date must be in the format YYYY-MM-DD.
+The email must be uppercase and between five and ten.
+
+57. As a event attendee, I want to register for an account.
+
+Acceptance Criteria:
+
+The review should not begin with letters.
+The title must include alphabetic and digits.
+The account number should contain numbers values.
+The price should be greater than eight characters.
+
+58. As a manager, I want to submit a form.
+
+Acceptance Criteria:
+
+The review is required.
+The search query time must be hh:mm:ss.
+The address email must be valid format.
+
+59. As a user, I want to book an appointment.
+
+Acceptance Criteria:
+
+The email should be minimum of five uppercase.
+The address email must be valid format.
+The account number should not begin with uppercase.
+The account number date must be in the format MM/DD/YYYY.
+
+60. As a student, I want to update my settings.
+
+Acceptance Criteria:
+
+The search query must have a minimum of ten uppercase characters.
+The phone number should not begin with special characters.
+The review must be alphabetic and exactly six.
+The mailid must include alphabetic and uppercase.
+The dob must include alphanumeric and letters.
+
+61. As a manager, I want to search for products.
+
+Acceptance Criteria:
+
+The zip code is required.
+The date of birth must be numeric and length of eight.
+The password must have a minimum of two numeric characters.
+
+62. As a tester, I want to reset my password.
+
+Acceptance Criteria:
+
+The date of birth must have a minimum of two lowercase characters.
+The comment is optional.
+
+63. As a frequent traveler, I want to generate a report.
+
+Acceptance Criteria:
+
+The email is required.
+The mailid should contain uppercase values.
+The price is optional.
+
+64. As a event attendee, I want to login to the system.
+
+Acceptance Criteria:
+
+The transaction id must be special characters and at least three.
+The username email must be valid format.
+The review should be greater than three characters.
+The price is required.
+The phone number email must be valid format.
+
+65. As a candidate, I want to view my profile.
+
+Acceptance Criteria:
+
+The dob must include letters and letters.
+The address must have a minimum of six lowercase characters.
+The mailid should be length of eight numeric.
+The quantity must be less than one characters.
+
+66. As a developer, I want to submit a form.
+
+Acceptance Criteria:
+
+The address date must be in the format MM/DD/YYYY.
+The price must include lowercase and alphabetic.
+The mailid should not begin with uppercase.
+
+67. As a user, I want to generate a report.
+
+Acceptance Criteria:
+
+The mailid time must be hh:mm:ss.
+The password date must be in the format DD/MM/YYYY.
+The age must have a minimum of five letters characters.
+
+68. As a shopper, I want to register for an account.
+
+Acceptance Criteria:
+
+The dob must be digits and at least three.
+The mailid is required.
+The file name must include letters and numbers.
+The date of birth must include numeric and numbers.
+The password must be numbers and at least three.
+
+69. As a frequent traveler, I want to generate a report.
+
+Acceptance Criteria:
+
+The age time must be HH:MM.
+The password must have a minimum of seven alphabetic characters.
+The account number should contain lowercase values.
+The mailid should contain numbers values.
+
+70. As a client, I want to transfer money.
+
+Acceptance Criteria:
+
+The description cannot contain alphanumeric.
+The file name accepts lowercase with minimum of five.
+The title date must be in the format YYYY-MM-DD.
+
+71. As a patient, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The email email must be valid format.
+The email should be greater than seven characters.
+
+72. As a admin, I want to view my profile.
+
+Acceptance Criteria:
+
+The title should be less than seven digits.
+The price should be maximum of ten alphanumeric.
+The address is optional.
+
+73. As a admin, I want to generate a report.
+
+Acceptance Criteria:
+
+The password time must be HH:MM.
+The dob accepts digits with exactly six.
+The username should not begin with letters.
+The quantity time must be hh:mm:ss.
+
+74. As a client, I want to login to the system.
+
+Acceptance Criteria:
+
+The price should not begin with lowercase.
+The address is required.
+The transaction id is optional.
+The title date must be in the format YYYY-MM-DD.
+The search query should be greater than five characters.
+
+75. As a tester, I want to register for an account.
+
+Acceptance Criteria:
+
+The mailid cannot contain numeric.
+The transaction id must be lowercase and less than seven.
+The age must include digits and uppercase.
+
+76. As a employee, I want to upload a file.
+
+Acceptance Criteria:
+
+The comment must include uppercase and numbers.
+The date of birth must be less than four characters.
+The phone number time must be hh:mm:ss.
+
+77. As a event attendee, I want to book an appointment.
+
+Acceptance Criteria:
+
+The description email must be valid format.
+The date of birth should not begin with uppercase.
+The dob must have a minimum of eight special characters characters.
+The review date must be in the format DD/MM/YYYY.
+
+78. As a doctor, I want to update my settings.
+
+Acceptance Criteria:
+
+The quantity should be greater than nine characters.
+The description time must be hh:mm:ss.
+The password should be exactly six numeric.
+The transaction id email must be valid format.
+The address should not begin with alphanumeric.
+
+79. As a developer, I want to submit a form.
+
+Acceptance Criteria:
+
+The description should be greater than four special characters.
+The title should contain alphanumeric values.
+
+80. As a customer, I want to apply for a job.
+
+Acceptance Criteria:
+
+The description is optional.
+The email email must be valid format.
+The review must include uppercase and special characters.
+The comment cannot contain special characters.
+The comment accepts numeric with maximum of ten.
+
+81. As a user, I want to view my profile.
+
+Acceptance Criteria:
+
+The email must include numeric and uppercase.
+The quantity is optional.
+
+82. As a frequent traveler, I want to upload a file.
+
+Acceptance Criteria:
+
+The account number must include lowercase and alphanumeric.
+The file name accepts numeric with at least three.
+The quantity is required.
+The file name should not begin with letters.
+
+83. As a admin, I want to search for products.
+
+Acceptance Criteria:
+
+The transaction id should be greater than three characters.
+The zip code must have a minimum of ten alphanumeric characters.
+The mailid should not begin with digits.
+
+84. As a patient, I want to write a review.
+
+Acceptance Criteria:
+
+The title should be greater than six characters.
+The age email must be valid format.
+The dob accepts alphabetic with less than seven.
+
+85. As a client, I want to register for an account.
+
+Acceptance Criteria:
+
+The title should be at least three numbers.
+The review email must be valid format.
+The dob should not begin with alphabetic.
+The age is required.
+The account number is required.
+
+86. As a admin, I want to search for products.
+
+Acceptance Criteria:
+
+The dob should be greater than four numbers.
+The zip code should not begin with alphanumeric.
+The review must have a minimum of nine numbers characters.
+The search query should contain alphabetic values.
+The account number time must be hh:mm:ss.
+
+87. As a tester, I want to submit a form.
+
+Acceptance Criteria:
+
+The phone number date must be in the format YYYY-MM-DD.
+The review date must be in the format YYYY-MM-DD.
+
+88. As a user, I want to transfer money.
+
+Acceptance Criteria:
+
+The phone number is optional.
+The title must include numeric and alphabetic.
+
+89. As a frequent traveler, I want to write a review.
+
+Acceptance Criteria:
+
+The search query cannot contain numbers.
+The username cannot contain numbers.
+
+90. As a client, I want to write a review.
+
+Acceptance Criteria:
+
+The date of birth should contain uppercase values.
+The age is required.
+The address cannot contain letters.
+The zip code email must be valid format.
+
+91. As a developer, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The review should be greater than eight characters.
+The zip code must be less than three characters.
+The dob is optional.
+
+92. As a doctor, I want to book an appointment.
+
+Acceptance Criteria:
+
+The dob must be numbers and exactly six.
+The title is optional.
+The date of birth must be less than nine characters.
+The age should contain lowercase values.
+
+93. As a shopper, I want to book an appointment.
+
+Acceptance Criteria:
+
+The quantity should contain alphanumeric values.
+The username is required.
+The zip code must include numeric and digits.
+The comment date must be in the format DD/MM/YYYY.
+
+94. As a developer, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The review is optional.
+The comment is required.
+The description should contain lowercase values.
+The password is optional.
+
+95. As a manager, I want to generate a report.
+
+Acceptance Criteria:
+
+The price must include lowercase and numeric.
+The dob should be greater than ten characters.
+The review should be greater than eight characters.
+The price is required.
+The address cannot contain uppercase.
+
+96. As a tester, I want to login to the system.
+
+Acceptance Criteria:
+
+The title is optional.
+The date of birth should be greater than four characters.
+The email must be less than nine characters.
+The comment accepts uppercase with greater than four.
+
+97. As a student, I want to transfer money.
+
+Acceptance Criteria:
+
+The search query cannot contain alphabetic.
+The email cannot contain numeric.
+The file name is optional.
+The zip code must include numbers and alphabetic.
+The comment must have a minimum of seven alphanumeric characters.
+
+98. As a shopper, I want to send a message.
+
+Acceptance Criteria:
+
+The username date must be in the format YYYY-MM-DD.
+The title should be greater than seven characters.
+The dob should not begin with alphanumeric.
+The phone number should not begin with alphanumeric.
+
+99. As a customer, I want to search for products.
+
+Acceptance Criteria:
+
+The file name should be length of eight digits.
+The file name is required.
+
+100. As a manager, I want to view my profile.
+
+Acceptance Criteria:
+
+The account number must have a minimum of eight special characters characters.
+The search query is required.
+The description must be numeric and between five and ten.
+
+101. As a customer, I want to search for products.
+
+Acceptance Criteria:
+
+The username accepts letters with exactly six.
+The zip code should be greater than five characters.
+The search query time must be hh:mm:ss.
+The search query is required.
+The search query accepts letters with maximum of ten.
+
+102. As a manager, I want to reset my password.
+
+Acceptance Criteria:
+
+The zip code should not begin with letters.
+The description accepts alphanumeric with minimum of five.
+The date of birth must be numbers and exactly six.
+The title should not begin with digits.
+The title must have a minimum of eight special characters characters.
+
+103. As a employee, I want to view my profile.
+
+Acceptance Criteria:
+
+The age accepts uppercase with length of eight.
+The review must have a minimum of seven alphanumeric characters.
+
+104. As a student, I want to apply for a job.
+
+Acceptance Criteria:
+
+The search query must include numeric and alphanumeric.
+The dob must include uppercase and numeric.
+The age should be greater than five characters.
+The age is optional.
+
+105. As a tester, I want to write a review.
+
+Acceptance Criteria:
+
+The transaction id is required.
+The phone number is required.
+The account number must be less than nine characters.
+
+106. As a student, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The username must include digits and alphabetic.
+The password should be length of eight lowercase.
+The mailid date must be in the format DD/MM/YYYY.
+The phone number is optional.
+The review should be greater than five characters.
+
+107. As a student, I want to book an appointment.
+
+Acceptance Criteria:
+
+The phone number accepts letters with less than seven.
+The description accepts special characters with length of eight.
+The price is required.
+The address should not begin with numeric.
+
+108. As a manager, I want to transfer money.
+
+Acceptance Criteria:
+
+The comment must include numbers and alphanumeric.
+The description must include letters and alphanumeric.
+The quantity is required.
+
+109. As a user, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The review cannot contain alphanumeric.
+The transaction id must include numbers and special characters.
+The account number cannot contain alphabetic.
+The review should not begin with digits.
+The dob is optional.
+
+110. As a user, I want to apply for a job.
+
+Acceptance Criteria:
+
+The age accepts special characters with greater than four.
+The transaction id date must be in the format MM/DD/YYYY.
+
+111. As a shopper, I want to book an appointment.
+
+Acceptance Criteria:
+
+The description must have a minimum of one digits characters.
+The search query date must be in the format MM/DD/YYYY.
+The title must be lowercase and maximum of ten.
+The transaction id is required.
+The transaction id should be greater than eight characters.
+
+112. As a developer, I want to reset my password.
+
+Acceptance Criteria:
+
+The date of birth should be exactly six alphanumeric.
+The comment cannot contain digits.
+The transaction id must include alphanumeric and numeric.
+
+113. As a tester, I want to send a message.
+
+Acceptance Criteria:
+
+The mailid must include letters and special characters.
+The title is required.
+The quantity must be lowercase and at least three.
+
+114. As a customer, I want to update my settings.
+
+Acceptance Criteria:
+
+The search query accepts alphabetic with maximum of ten.
+The account number should be between five and ten alphabetic.
+
+115. As a patient, I want to generate a report.
+
+Acceptance Criteria:
+
+The file name should be greater than one characters.
+The address time must be HH:MM.
+
+116. As a teacher, I want to upload a file.
+
+Acceptance Criteria:
+
+The account number date must be in the format YYYY-MM-DD.
+The search query time must be hh:mm:ss.
+The address date must be in the format DD/MM/YYYY.
+The title must be alphabetic and maximum of ten.
+
+117. As a frequent traveler, I want to book an appointment.
+
+Acceptance Criteria:
+
+The password should not begin with letters.
+The mailid accepts numbers with maximum of ten.
+
+118. As a teacher, I want to transfer money.
+
+Acceptance Criteria:
+
+The mailid must be less than two characters.
+The quantity cannot contain digits.
+
+119. As a manager, I want to apply for a job.
+
+Acceptance Criteria:
+
+The file name must be alphanumeric and greater than four.
+The quantity time must be HH:MM.
+The title should not begin with numbers.
+The mailid date must be in the format YYYY-MM-DD.
+
+120. As a user, I want to search for products.
+
+Acceptance Criteria:
+
+The quantity must be less than five characters.
+The title must include special characters and alphanumeric.
+The zip code is optional.
+
+121. As a shopper, I want to upload a file.
+
+Acceptance Criteria:
+
+The comment accepts digits with length of eight.
+The review should contain uppercase values.
+The age should be greater than eight characters.
+
+122. As a tester, I want to book an appointment.
+
+Acceptance Criteria:
+
+The date of birth email must be valid format.
+The review is required.
+
+123. As a frequent traveler, I want to generate a report.
+
+Acceptance Criteria:
+
+The file name is required.
+The dob should not begin with digits.
+The email time must be hh:mm:ss.
+The description should be at least three letters.
+
+124. As a client, I want to register for an account.
+
+Acceptance Criteria:
+
+The title must include lowercase and numeric.
+The description is required.
+The account number must have a minimum of seven special characters characters.
+The review is optional.
+
+125. As a tester, I want to view my profile.
+
+Acceptance Criteria:
+
+The mailid must have a minimum of three letters characters.
+The date of birth accepts uppercase with between five and ten.
+The dob date must be in the format DD/MM/YYYY.
+The transaction id time must be HH:MM.
+
+126. As a teacher, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The review cannot contain numeric.
+The review time must be hh:mm:ss.
+The comment date must be in the format DD/MM/YYYY.
+
+127. As a employee, I want to transfer money.
+
+Acceptance Criteria:
+
+The phone number must be alphabetic and greater than four.
+The phone number is optional.
+The title must have a minimum of ten digits characters.
+
+128. As a employee, I want to apply for a job.
+
+Acceptance Criteria:
+
+The account number must have a minimum of four digits characters.
+The description should be greater than two characters.
+The mailid cannot contain lowercase.
+The password should contain uppercase values.
+The review cannot contain alphanumeric.
+
+129. As a manager, I want to reset my password.
+
+Acceptance Criteria:
+
+The address is required.
+The date of birth must have a minimum of ten alphanumeric characters.
+The date of birth must be lowercase and greater than four.
+The mailid must have a minimum of three lowercase characters.
+
+130. As a teacher, I want to view my profile.
+
+Acceptance Criteria:
+
+The age time must be hh:mm:ss.
+The username must be special characters and minimum of five.
+The file name should be greater than five characters.
+The file name date must be in the format YYYY-MM-DD.
+The description cannot contain numeric.
+
+131. As a event attendee, I want to transfer money.
+
+Acceptance Criteria:
+
+The transaction id should be between five and ten letters.
+The username should contain numbers values.
+The address must be special characters and between five and ten.
+The age is optional.
+
+132. As a developer, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The file name should be maximum of ten numeric.
+The comment should not begin with lowercase.
+The review date must be in the format MM/DD/YYYY.
+The mailid is optional.
+The description cannot contain alphanumeric.
+
+133. As a frequent traveler, I want to transfer money.
+
+Acceptance Criteria:
+
+The address time must be HH:MM.
+The description date must be in the format YYYY-MM-DD.
+
+134. As a customer, I want to submit a form.
+
+Acceptance Criteria:
+
+The file name date must be in the format YYYY-MM-DD.
+The price should be maximum of ten letters.
+
+135. As a tester, I want to reset my password.
+
+Acceptance Criteria:
+
+The phone number must have a minimum of six numeric characters.
+The email time must be HH:MM.
+The transaction id should not begin with special characters.
+The dob should contain alphabetic values.
+The review should be between five and ten uppercase.
+
+136. As a employee, I want to update my settings.
+
+Acceptance Criteria:
+
+The date of birth email must be valid format.
+The title should contain numbers values.
+
+137. As a user, I want to transfer money.
+
+Acceptance Criteria:
+
+The description time must be HH:MM.
+The address should be greater than one characters.
+The age should not begin with alphanumeric.
+The title date must be in the format DD/MM/YYYY.
+The quantity should be greater than four characters.
+
+138. As a admin, I want to search for products.
+
+Acceptance Criteria:
+
+The review time must be hh:mm:ss.
+The email must include letters and special characters.
+The phone number cannot contain letters.
+The search query must include alphanumeric and numbers.
+The comment should contain digits values.
+
+139. As a customer, I want to login to the system.
+
+Acceptance Criteria:
+
+The quantity time must be hh:mm:ss.
+The description email must be valid format.
+The account number must be numbers and less than seven.
+The password must have a minimum of two uppercase characters.
+The transaction id must include alphanumeric and special characters.
+
+140. As a user, I want to transfer money.
+
+Acceptance Criteria:
+
+The dob must be less than four characters.
+The file name should not begin with numbers.
+
+141. As a doctor, I want to search for products.
+
+Acceptance Criteria:
+
+The search query date must be in the format MM/DD/YYYY.
+The search query must have a minimum of six alphanumeric characters.
+The password cannot contain numeric.
+
+142. As a shopper, I want to update my settings.
+
+Acceptance Criteria:
+
+The dob accepts alphanumeric with maximum of ten.
+The date of birth email must be valid format.
+The description time must be hh:mm:ss.
+The file name time must be hh:mm:ss.
+The review must be less than two characters.
+
+143. As a student, I want to generate a report.
+
+Acceptance Criteria:
+
+The zip code accepts uppercase with greater than four.
+The comment must include numeric and special characters.
+The search query must have a minimum of five numeric characters.
+The email is optional.
+The email time must be HH:MM.
+
+144. As a tester, I want to reset my password.
+
+Acceptance Criteria:
+
+The date of birth email must be valid format.
+The password must be less than eight characters.
+The file name is required.
+
+145. As a admin, I want to apply for a job.
+
+Acceptance Criteria:
+
+The date of birth date must be in the format DD/MM/YYYY.
+The username must be special characters and length of eight.
+The age date must be in the format YYYY-MM-DD.
+
+146. As a customer, I want to view my profile.
+
+Acceptance Criteria:
+
+The price must be less than six characters.
+The mailid should contain numeric values.
+The transaction id should not begin with uppercase.
+The file name should be exactly six alphabetic.
+The zip code accepts alphabetic with exactly six.
+
+147. As a candidate, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The transaction id should not begin with special characters.
+The dob email must be valid format.
+
+148. As a frequent traveler, I want to write a review.
+
+Acceptance Criteria:
+
+The zip code must be less than seven characters.
+The phone number accepts letters with maximum of ten.
+The comment is required.
+The dob time must be hh:mm:ss.
+The dob cannot contain numeric.
+
+149. As a client, I want to view my profile.
+
+Acceptance Criteria:
+
+The dob should be greater than ten characters.
+The price should be greater than five characters.
+
+150. As a manager, I want to register for an account.
+
+Acceptance Criteria:
+
+The file name date must be in the format YYYY-MM-DD.
+The title date must be in the format YYYY-MM-DD.
+
+151. As a frequent traveler, I want to view my profile.
+
+Acceptance Criteria:
+
+The password is required.
+The description email must be valid format.
+The comment must be letters and minimum of five.
+
+152. As a client, I want to search for products.
+
+Acceptance Criteria:
+
+The account number accepts lowercase with exactly six.
+The password must include digits and special characters.
+The review should be greater than six characters.
+The age email must be valid format.
+
+153. As a client, I want to submit a form.
+
+Acceptance Criteria:
+
+The title date must be in the format MM/DD/YYYY.
+The title email must be valid format.
+The date of birth email must be valid format.
+
+154. As a shopper, I want to write a review.
+
+Acceptance Criteria:
+
+The transaction id cannot contain lowercase.
+The address cannot contain numeric.
+The transaction id should be length of eight uppercase.
+
+155. As a user, I want to write a review.
+
+Acceptance Criteria:
+
+The mailid must include alphanumeric and special characters.
+The comment should be greater than five characters.
+The description must have a minimum of three numeric characters.
+
+156. As a candidate, I want to register for an account.
+
+Acceptance Criteria:
+
+The review should be greater than four characters.
+The review should be between five and ten digits.
+The price must include numbers and digits.
+
+157. As a candidate, I want to upload a file.
+
+Acceptance Criteria:
+
+The password should not begin with numeric.
+The account number email must be valid format.
+The age date must be in the format MM/DD/YYYY.
+The search query cannot contain alphabetic.
+
+158. As a student, I want to book an appointment.
+
+Acceptance Criteria:
+
+The mailid time must be HH:MM.
+The account number should be greater than two characters.
+The file name is optional.
+The search query email must be valid format.
+The search query cannot contain digits.
+
+159. As a tester, I want to send a message.
+
+Acceptance Criteria:
+
+The account number should not begin with numeric.
+The phone number must be alphabetic and minimum of five.
+The username should be length of eight alphabetic.
+The price is required.
+
+160. As a manager, I want to transfer money.
+
+Acceptance Criteria:
+
+The title must include alphanumeric and digits.
+The email cannot contain numbers.
+The file name must be less than ten characters.
+
+161. As a teacher, I want to view my profile.
+
+Acceptance Criteria:
+
+The comment must have a minimum of three digits characters.
+The dob should contain digits values.
+The date of birth email must be valid format.
+The address should be minimum of five lowercase.
+
+162. As a teacher, I want to book an appointment.
+
+Acceptance Criteria:
+
+The username email must be valid format.
+The date of birth should contain alphanumeric values.
+The username should not begin with special characters.
+The date of birth cannot contain letters.
+The description accepts numeric with at least three.
+
+163. As a candidate, I want to search for products.
+
+Acceptance Criteria:
+
+The zip code cannot contain special characters.
+The age should contain alphanumeric values.
+The review cannot contain alphabetic.
+The description time must be hh:mm:ss.
+The transaction id accepts special characters with maximum of ten.
+
+164. As a frequent traveler, I want to send a message.
+
+Acceptance Criteria:
+
+The comment is optional.
+The transaction id should not begin with uppercase.
+The quantity is required.
+The dob must be special characters and maximum of ten.
+
+165. As a teacher, I want to transfer money.
+
+Acceptance Criteria:
+
+The email must include numbers and alphanumeric.
+The dob time must be HH:MM.
+The search query must be alphabetic and at least three.
+
+166. As a candidate, I want to write a review.
+
+Acceptance Criteria:
+
+The file name time must be hh:mm:ss.
+The description must be lowercase and minimum of five.
+
+167. As a event attendee, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The email date must be in the format MM/DD/YYYY.
+The transaction id is required.
+
+168. As a employee, I want to generate a report.
+
+Acceptance Criteria:
+
+The dob is required.
+The search query must be numeric and less than seven.
+The dob email must be valid format.
+
+169. As a admin, I want to reset my password.
+
+Acceptance Criteria:
+
+The search query accepts uppercase with length of eight.
+The description cannot contain numeric.
+The comment date must be in the format MM/DD/YYYY.
+The username is required.
+
+170. As a user, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The zip code should not begin with numeric.
+The zip code cannot contain alphanumeric.
+
+171. As a teacher, I want to search for products.
+
+Acceptance Criteria:
+
+The password should be greater than five characters.
+The age date must be in the format MM/DD/YYYY.
+The review email must be valid format.
+The file name time must be hh:mm:ss.
+
+172. As a shopper, I want to search for products.
+
+Acceptance Criteria:
+
+The email should not begin with letters.
+The zip code cannot contain numbers.
+The quantity should contain alphanumeric values.
+
+173. As a tester, I want to generate a report.
+
+Acceptance Criteria:
+
+The comment time must be HH:MM.
+The address should contain letters values.
+The password should contain alphanumeric values.
+The mailid should be minimum of five numbers.
+The dob should be minimum of five uppercase.
+
+174. As a teacher, I want to login to the system.
+
+Acceptance Criteria:
+
+The file name must have a minimum of six numeric characters.
+The address time must be hh:mm:ss.
+
+175. As a doctor, I want to apply for a job.
+
+Acceptance Criteria:
+
+The transaction id accepts uppercase with at least three.
+The age must be special characters and greater than four.
+
+176. As a candidate, I want to write a review.
+
+Acceptance Criteria:
+
+The phone number should be length of eight special characters.
+The title must be less than two characters.
+The account number date must be in the format YYYY-MM-DD.
+
+177. As a doctor, I want to book an appointment.
+
+Acceptance Criteria:
+
+The description must be less than five characters.
+The address accepts alphabetic with length of eight.
+The phone number must be less than four characters.
+
+178. As a admin, I want to search for products.
+
+Acceptance Criteria:
+
+The price is optional.
+The price must have a minimum of seven special characters characters.
+The description must have a minimum of nine special characters characters.
+
+179. As a employee, I want to login to the system.
+
+Acceptance Criteria:
+
+The address cannot contain uppercase.
+The password time must be HH:MM.
+The file name is required.
+
+180. As a user, I want to view my profile.
+
+Acceptance Criteria:
+
+The phone number should be greater than ten characters.
+The account number cannot contain lowercase.
+The description is optional.
+
+181. As a frequent traveler, I want to write a review.
+
+Acceptance Criteria:
+
+The comment cannot contain letters.
+The quantity is required.
+The account number email must be valid format.
+
+182. As a doctor, I want to view my profile.
+
+Acceptance Criteria:
+
+The search query should not begin with uppercase.
+The age must be digits and at least three.
+The search query must include special characters and letters.
+
+183. As a admin, I want to upload a file.
+
+Acceptance Criteria:
+
+The mailid is required.
+The title should not begin with numeric.
+The email cannot contain uppercase.
+
+184. As a patient, I want to view my profile.
+
+Acceptance Criteria:
+
+The username is optional.
+The quantity cannot contain uppercase.
+
+185. As a tester, I want to write a review.
+
+Acceptance Criteria:
+
+The price must be alphanumeric and minimum of five.
+The quantity time must be hh:mm:ss.
+The username cannot contain letters.
+The phone number email must be valid format.
+The price email must be valid format.
+
+186. As a frequent traveler, I want to transfer money.
+
+Acceptance Criteria:
+
+The username must have a minimum of seven alphabetic characters.
+The zip code date must be in the format YYYY-MM-DD.
+The age date must be in the format YYYY-MM-DD.
+
+187. As a patient, I want to view my profile.
+
+Acceptance Criteria:
+
+The file name should not begin with alphanumeric.
+The description should contain letters values.
+
+188. As a frequent traveler, I want to submit a form.
+
+Acceptance Criteria:
+
+The address should be maximum of ten numbers.
+The username must be less than six characters.
+The phone number must be alphabetic and minimum of five.
+The dob time must be HH:MM.
+The title email must be valid format.
+
+189. As a user, I want to update my settings.
+
+Acceptance Criteria:
+
+The date of birth cannot contain special characters.
+The search query cannot contain uppercase.
+The date of birth must be less than six characters.
+The address cannot contain digits.
+
+190. As a employee, I want to apply for a job.
+
+Acceptance Criteria:
+
+The email should be less than seven lowercase.
+The title must have a minimum of one digits characters.
+The search query must have a minimum of three numbers characters.
+The age email must be valid format.
+The file name should not begin with special characters.
+
+191. As a doctor, I want to update my settings.
+
+Acceptance Criteria:
+
+The username should be greater than two characters.
+The price accepts alphanumeric with minimum of five.
+The date of birth must be less than ten characters.
+The review should not begin with numbers.
+
+192. As a teacher, I want to apply for a job.
+
+Acceptance Criteria:
+
+The address should be length of eight lowercase.
+The description is optional.
+The quantity should contain digits values.
+The description cannot contain lowercase.
+
+193. As a candidate, I want to login to the system.
+
+Acceptance Criteria:
+
+The search query must be less than six characters.
+The description is required.
+The zip code must be less than five characters.
+
+194. As a event attendee, I want to transfer money.
+
+Acceptance Criteria:
+
+The username cannot contain numbers.
+The mailid date must be in the format MM/DD/YYYY.
+The date of birth should be greater than seven characters.
+
+195. As a frequent traveler, I want to book an appointment.
+
+Acceptance Criteria:
+
+The account number email must be valid format.
+The age should be greater than nine characters.
+The age is optional.
+
+196. As a shopper, I want to book an appointment.
+
+Acceptance Criteria:
+
+The title must be less than three characters.
+The comment cannot contain special characters.
+
+197. As a developer, I want to generate a report.
+
+Acceptance Criteria:
+
+The description must include lowercase and alphanumeric.
+The comment is required.
+The search query should be exactly six alphanumeric.
+The date of birth is required.
+The email email must be valid format.
+
+198. As a teacher, I want to apply for a job.
+
+Acceptance Criteria:
+
+The file name cannot contain digits.
+The title is optional.
+The price should be maximum of ten numeric.
+
+199. As a admin, I want to send a message.
+
+Acceptance Criteria:
+
+The file name accepts uppercase with between five and ten.
+The date of birth should be less than seven uppercase.
+The age should be greater than four digits.
+The address should be less than seven uppercase.
+
+200. As a shopper, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The date of birth date must be in the format DD/MM/YYYY.
+The title email must be valid format.
+The quantity is optional.
+The description should be greater than four alphabetic.
+
+201. As a tester, I want to apply for a job.
+
+Acceptance Criteria:
+
+The address email must be valid format.
+The email time must be HH:MM.
+
+202. As a admin, I want to register for an account.
+
+Acceptance Criteria:
+
+The address should contain special characters values.
+The email must be less than seven characters.
+
+203. As a manager, I want to search for products.
+
+Acceptance Criteria:
+
+The review accepts special characters with length of eight.
+The transaction id must include letters and letters.
+The email must be uppercase and minimum of five.
+The dob cannot contain uppercase.
+The price date must be in the format DD/MM/YYYY.
+
+204. As a employee, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The description is required.
+The zip code cannot contain letters.
+
+205. As a manager, I want to search for products.
+
+Acceptance Criteria:
+
+The address should be greater than four characters.
+The search query cannot contain lowercase.
+The price cannot contain digits.
+The file name is required.
+
+206. As a frequent traveler, I want to login to the system.
+
+Acceptance Criteria:
+
+The zip code should contain lowercase values.
+The zip code should be exactly six letters.
+
+207. As a manager, I want to upload a file.
+
+Acceptance Criteria:
+
+The dob date must be in the format MM/DD/YYYY.
+The password date must be in the format MM/DD/YYYY.
+
+208. As a employee, I want to login to the system.
+
+Acceptance Criteria:
+
+The quantity must have a minimum of nine special characters characters.
+The address must be less than six characters.
+The search query date must be in the format YYYY-MM-DD.
+The address must have a minimum of seven uppercase characters.
+The phone number must include letters and uppercase.
+
+209. As a customer, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The phone number should not begin with numbers.
+The email time must be HH:MM.
+
+210. As a employee, I want to transfer money.
+
+Acceptance Criteria:
+
+The address should not begin with lowercase.
+The price date must be in the format DD/MM/YYYY.
+The file name is required.
+The search query must be alphabetic and at least three.
+The phone number is optional.
+
+211. As a tester, I want to send a message.
+
+Acceptance Criteria:
+
+The file name cannot contain alphanumeric.
+The username should not begin with special characters.
+The phone number cannot contain alphanumeric.
+
+212. As a customer, I want to submit a form.
+
+Acceptance Criteria:
+
+The search query is required.
+The email must be less than five characters.
+The title must be less than two characters.
+
+213. As a tester, I want to book an appointment.
+
+Acceptance Criteria:
+
+The file name cannot contain lowercase.
+The date of birth is required.
+The review should be greater than five characters.
+The mailid date must be in the format MM/DD/YYYY.
+
+214. As a employee, I want to submit a form.
+
+Acceptance Criteria:
+
+The price should be at least three digits.
+The address should contain alphanumeric values.
+
+215. As a student, I want to submit a form.
+
+Acceptance Criteria:
+
+The quantity must have a minimum of eight alphabetic characters.
+The description must be alphabetic and greater than four.
+The price email must be valid format.
+The password date must be in the format YYYY-MM-DD.
+The price should be at least three alphabetic.
+
+216. As a employee, I want to register for an account.
+
+Acceptance Criteria:
+
+The date of birth must be less than ten characters.
+The date of birth must be less than one characters.
+The phone number accepts numeric with between five and ten.
+The search query is optional.
+
+217. As a doctor, I want to reset my password.
+
+Acceptance Criteria:
+
+The email must be less than one characters.
+The price should be between five and ten special characters.
+The mailid should contain numbers values.
+The file name is required.
+The mailid time must be HH:MM.
+
+218. As a candidate, I want to send a message.
+
+Acceptance Criteria:
+
+The username should be greater than four letters.
+The dob should contain numeric values.
+The review should contain alphanumeric values.
+The search query must have a minimum of six alphanumeric characters.
+
+219. As a teacher, I want to reset my password.
+
+Acceptance Criteria:
+
+The quantity must have a minimum of three letters characters.
+The description should be maximum of ten uppercase.
+The password must be special characters and between five and ten.
+The account number should contain numbers values.
+
+220. As a employee, I want to transfer money.
+
+Acceptance Criteria:
+
+The password should be length of eight uppercase.
+The password must include uppercase and numeric.
+The search query should be maximum of ten alphabetic.
+
+221. As a frequent traveler, I want to search for products.
+
+Acceptance Criteria:
+
+The address is optional.
+The address should be greater than eight characters.
+The title should contain numbers values.
+The zip code must have a minimum of ten special characters characters.
+
+222. As a shopper, I want to generate a report.
+
+Acceptance Criteria:
+
+The date of birth is optional.
+The description must be less than one characters.
+The username should contain numbers values.
+
+223. As a student, I want to view my profile.
+
+Acceptance Criteria:
+
+The date of birth must be less than one characters.
+The phone number email must be valid format.
+The transaction id time must be hh:mm:ss.
+The review must be numeric and less than seven.
+The account number is required.
+
+224. As a event attendee, I want to book an appointment.
+
+Acceptance Criteria:
+
+The dob should be less than seven alphanumeric.
+The address email must be valid format.
+The comment must have a minimum of eight letters characters.
+The phone number date must be in the format MM/DD/YYYY.
+
+225. As a manager, I want to register for an account.
+
+Acceptance Criteria:
+
+The file name should be exactly six special characters.
+The title should be at least three alphanumeric.
+The transaction id must be less than ten characters.
+The date of birth is required.
+
+226. As a doctor, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The email must have a minimum of two alphabetic characters.
+The comment is required.
+
+227. As a frequent traveler, I want to view my profile.
+
+Acceptance Criteria:
+
+The mailid is required.
+The phone number cannot contain special characters.
+The password should be at least three lowercase.
+The zip code should be exactly six lowercase.
+
+228. As a teacher, I want to book an appointment.
+
+Acceptance Criteria:
+
+The age time must be hh:mm:ss.
+The date of birth should be between five and ten alphanumeric.
+The age must be letters and minimum of five.
+
+229. As a frequent traveler, I want to update my settings.
+
+Acceptance Criteria:
+
+The title must have a minimum of three alphabetic characters.
+The date of birth must be numeric and between five and ten.
+The file name should contain numeric values.
+The email cannot contain digits.
+The transaction id should be greater than six characters.
+
+230. As a student, I want to update my settings.
+
+Acceptance Criteria:
+
+The review should contain letters values.
+The username should be length of eight alphanumeric.
+The dob date must be in the format MM/DD/YYYY.
+
+231. As a student, I want to transfer money.
+
+Acceptance Criteria:
+
+The file name should contain alphabetic values.
+The quantity is optional.
+The zip code should be greater than eight characters.
+
+232. As a event attendee, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The username should not begin with special characters.
+The transaction id should be greater than two characters.
+The account number must be numbers and between five and ten.
+The date of birth must include special characters and alphanumeric.
+
+233. As a admin, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The comment is required.
+The account number accepts letters with between five and ten.
+The comment should be maximum of ten special characters.
+The search query cannot contain alphabetic.
+The file name must have a minimum of eight uppercase characters.
+
+234. As a student, I want to write a review.
+
+Acceptance Criteria:
+
+The transaction id cannot contain alphabetic.
+The address should be exactly six uppercase.
+The transaction id must include special characters and lowercase.
+The search query date must be in the format MM/DD/YYYY.
+The dob should contain alphabetic values.
+
+235. As a tester, I want to transfer money.
+
+Acceptance Criteria:
+
+The mailid must include alphanumeric and alphabetic.
+The search query must have a minimum of six lowercase characters.
+The date of birth should contain alphabetic values.
+The phone number is optional.
+
+236. As a event attendee, I want to login to the system.
+
+Acceptance Criteria:
+
+The date of birth should contain alphabetic values.
+The address accepts alphabetic with maximum of ten.
+
+237. As a frequent traveler, I want to upload a file.
+
+Acceptance Criteria:
+
+The mailid must be less than four characters.
+The transaction id must have a minimum of one special characters characters.
+
+238. As a student, I want to reset my password.
+
+Acceptance Criteria:
+
+The account number must be less than nine characters.
+The email cannot contain lowercase.
+
+239. As a employee, I want to update my settings.
+
+Acceptance Criteria:
+
+The file name is optional.
+The quantity must include numbers and digits.
+The transaction id must have a minimum of six lowercase characters.
+The title accepts uppercase with greater than four.
+
+240. As a doctor, I want to upload a file.
+
+Acceptance Criteria:
+
+The transaction id must be less than nine characters.
+The account number must be less than one characters.
+The password should be greater than four characters.
+The zip code should be maximum of ten alphanumeric.
+
+241. As a candidate, I want to search for products.
+
+Acceptance Criteria:
+
+The password accepts digits with exactly six.
+The email should be greater than four characters.
+
+242. As a manager, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The description is optional.
+The transaction id should be greater than two characters.
+The age time must be HH:MM.
+The title should not begin with alphabetic.
+
+243. As a student, I want to search for products.
+
+Acceptance Criteria:
+
+The age should contain numeric values.
+The description time must be hh:mm:ss.
+The dob accepts digits with greater than four.
+The dob should contain lowercase values.
+
+244. As a doctor, I want to reset my password.
+
+Acceptance Criteria:
+
+The password should contain lowercase values.
+The search query is optional.
+The description must have a minimum of ten alphabetic characters.
+
+245. As a manager, I want to search for products.
+
+Acceptance Criteria:
+
+The transaction id is optional.
+The search query cannot contain numbers.
+The age is required.
+
+246. As a customer, I want to send a message.
+
+Acceptance Criteria:
+
+The search query should be minimum of five digits.
+The mailid cannot contain lowercase.
+The quantity should be greater than four characters.
+The age should be less than seven lowercase.
+
+247. As a candidate, I want to reset my password.
+
+Acceptance Criteria:
+
+The title must be less than one characters.
+The phone number must include letters and special characters.
+The dob should not begin with special characters.
+The phone number should not begin with alphanumeric.
+
+248. As a admin, I want to transfer money.
+
+Acceptance Criteria:
+
+The comment is optional.
+The mailid email must be valid format.
+The email must have a minimum of three special characters characters.
+The description is optional.
+The title time must be HH:MM.
+
+249. As a shopper, I want to view my profile.
+
+Acceptance Criteria:
+
+The file name must have a minimum of three digits characters.
+The review should not begin with letters.
+The transaction id email must be valid format.
+
+250. As a client, I want to transfer money.
+
+Acceptance Criteria:
+
+The date of birth is optional.
+The date of birth cannot contain digits.
+The review should be at least three numbers.
+The password must be less than eight characters.
+
+251. As a customer, I want to reset my password.
+
+Acceptance Criteria:
+
+The username should be maximum of ten alphanumeric.
+The username should be greater than six characters.
+The account number time must be HH:MM.
+The account number must be less than eight characters.
+The address is optional.
+
+252. As a customer, I want to update my settings.
+
+Acceptance Criteria:
+
+The password should be greater than seven characters.
+The transaction id should contain numbers values.
+The date of birth time must be HH:MM.
+
+253. As a teacher, I want to transfer money.
+
+Acceptance Criteria:
+
+The title should be exactly six alphabetic.
+The mailid must be digits and greater than four.
+The transaction id should contain alphabetic values.
+The email is required.
+The username is optional.
+
+254. As a event attendee, I want to login to the system.
+
+Acceptance Criteria:
+
+The date of birth should be less than seven numbers.
+The quantity accepts numbers with minimum of five.
+
+255. As a user, I want to update my settings.
+
+Acceptance Criteria:
+
+The phone number should be greater than five characters.
+The comment accepts letters with maximum of ten.
+The dob must be alphabetic and less than seven.
+
+256. As a shopper, I want to send a message.
+
+Acceptance Criteria:
+
+The password is required.
+The review time must be HH:MM.
+The title cannot contain uppercase.
+
+257. As a patient, I want to update my settings.
+
+Acceptance Criteria:
+
+The transaction id accepts numbers with less than seven.
+The username accepts alphanumeric with minimum of five.
+The date of birth time must be HH:MM.
+The price should be greater than two characters.
+
+258. As a user, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The password must be less than two characters.
+The account number is optional.
+
+259. As a user, I want to submit a form.
+
+Acceptance Criteria:
+
+The email is required.
+The review must include numbers and lowercase.
+The price must include letters and numeric.
+
+260. As a client, I want to apply for a job.
+
+Acceptance Criteria:
+
+The email must have a minimum of eight alphabetic characters.
+The email time must be hh:mm:ss.
+The dob time must be HH:MM.
+The description must include lowercase and special characters.
+The search query should not begin with letters.
+
+261. As a employee, I want to submit a form.
+
+Acceptance Criteria:
+
+The price must have a minimum of eight uppercase characters.
+The quantity should not begin with alphabetic.
+The address is optional.
+
+262. As a manager, I want to view my profile.
+
+Acceptance Criteria:
+
+The comment is required.
+The email email must be valid format.
+The date of birth email must be valid format.
+The quantity must have a minimum of five lowercase characters.
+The account number email must be valid format.
+
+263. As a tester, I want to update my settings.
+
+Acceptance Criteria:
+
+The password must be alphanumeric and at least three.
+The age must have a minimum of four digits characters.
+The dob is required.
+The dob must be less than two characters.
+The date of birth must have a minimum of eight alphabetic characters.
+
+264. As a candidate, I want to search for products.
+
+Acceptance Criteria:
+
+The date of birth must have a minimum of four special characters characters.
+The address must have a minimum of eight special characters characters.
+The price accepts numeric with greater than four.
+
+265. As a customer, I want to view my profile.
+
+Acceptance Criteria:
+
+The mailid cannot contain special characters.
+The file name must be less than six characters.
+The quantity should contain alphabetic values.
+The address should be greater than nine characters.
+
+266. As a teacher, I want to reset my password.
+
+Acceptance Criteria:
+
+The email cannot contain uppercase.
+The password is required.
+The email must be less than two characters.
+The comment should contain uppercase values.
+The dob is optional.
+
+267. As a frequent traveler, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The phone number should contain numbers values.
+The age should not begin with uppercase.
+The password must be alphanumeric and at least three.
+
+268. As a frequent traveler, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The mailid is required.
+The description cannot contain letters.
+The zip code email must be valid format.
+The transaction id time must be hh:mm:ss.
+The review is optional.
+
+269. As a student, I want to search for products.
+
+Acceptance Criteria:
+
+The password date must be in the format YYYY-MM-DD.
+The title time must be HH:MM.
+
+270. As a teacher, I want to write a review.
+
+Acceptance Criteria:
+
+The comment is optional.
+The password time must be hh:mm:ss.
+The email must include digits and numeric.
+
+271. As a frequent traveler, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The username should be exactly six digits.
+The account number accepts letters with between five and ten.
+The account number must include digits and digits.
+The search query accepts alphabetic with exactly six.
+The quantity must include uppercase and alphanumeric.
+
+272. As a shopper, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The search query is required.
+The dob should be exactly six alphanumeric.
+The file name email must be valid format.
+
+273. As a event attendee, I want to submit a form.
+
+Acceptance Criteria:
+
+The transaction id is required.
+The dob should contain letters values.
+
+274. As a doctor, I want to send a message.
+
+Acceptance Criteria:
+
+The phone number should not begin with numeric.
+The zip code must have a minimum of eight alphabetic characters.
+The dob accepts lowercase with between five and ten.
+The email date must be in the format MM/DD/YYYY.
+The age cannot contain special characters.
+
+275. As a student, I want to apply for a job.
+
+Acceptance Criteria:
+
+The address should be greater than four characters.
+The mailid email must be valid format.
+
+276. As a customer, I want to apply for a job.
+
+Acceptance Criteria:
+
+The search query should contain numbers values.
+The price cannot contain alphabetic.
+The comment is optional.
+The address must have a minimum of two lowercase characters.
+
+277. As a client, I want to view my profile.
+
+Acceptance Criteria:
+
+The title should not begin with uppercase.
+The comment should be greater than one characters.
+The date of birth must include numbers and uppercase.
+
+278. As a developer, I want to search for products.
+
+Acceptance Criteria:
+
+The username should not begin with alphanumeric.
+The dob should be maximum of ten letters.
+
+279. As a customer, I want to register for an account.
+
+Acceptance Criteria:
+
+The transaction id is optional.
+The zip code accepts special characters with maximum of ten.
+The quantity should contain letters values.
+The dob should not begin with alphanumeric.
+
+280. As a teacher, I want to transfer money.
+
+Acceptance Criteria:
+
+The phone number time must be HH:MM.
+The transaction id must include lowercase and lowercase.
+The username accepts digits with less than seven.
+
+281. As a admin, I want to transfer money.
+
+Acceptance Criteria:
+
+The date of birth date must be in the format YYYY-MM-DD.
+The mailid accepts letters with length of eight.
+The zip code cannot contain letters.
+The username should not begin with alphanumeric.
+
+282. As a student, I want to transfer money.
+
+Acceptance Criteria:
+
+The comment should contain alphabetic values.
+The price time must be HH:MM.
+
+283. As a admin, I want to generate a report.
+
+Acceptance Criteria:
+
+The address must be less than eight characters.
+The password accepts letters with less than seven.
+The zip code is required.
+
+284. As a manager, I want to apply for a job.
+
+Acceptance Criteria:
+
+The dob accepts lowercase with at least three.
+The dob is optional.
+The quantity must include numbers and letters.
+The date of birth must be less than one characters.
+The search query accepts uppercase with between five and ten.
+
+285. As a frequent traveler, I want to generate a report.
+
+Acceptance Criteria:
+
+The quantity must include special characters and letters.
+The search query should be at least three numbers.
+The password is optional.
+
+286. As a developer, I want to search for products.
+
+Acceptance Criteria:
+
+The email date must be in the format YYYY-MM-DD.
+The comment must be less than eight characters.
+
+287. As a tester, I want to update my settings.
+
+Acceptance Criteria:
+
+The username should be greater than five characters.
+The quantity cannot contain alphanumeric.
+The file name is optional.
+
+288. As a student, I want to search for products.
+
+Acceptance Criteria:
+
+The price email must be valid format.
+The age email must be valid format.
+
+289. As a student, I want to upload a file.
+
+Acceptance Criteria:
+
+The phone number must have a minimum of ten alphabetic characters.
+The description accepts numeric with length of eight.
+The dob must have a minimum of five lowercase characters.
+The date of birth must have a minimum of ten lowercase characters.
+
+290. As a employee, I want to upload a file.
+
+Acceptance Criteria:
+
+The review is optional.
+The address should contain alphanumeric values.
+The password accepts alphabetic with less than seven.
+The file name is required.
+The price should not begin with numeric.
+
+291. As a user, I want to reset my password.
+
+Acceptance Criteria:
+
+The age accepts lowercase with greater than four.
+The age should be greater than five characters.
+The password must be alphanumeric and at least three.
+
+292. As a frequent traveler, I want to write a review.
+
+Acceptance Criteria:
+
+The age email must be valid format.
+The age is optional.
+The description must include special characters and alphabetic.
+The age should be between five and ten lowercase.
+
+293. As a patient, I want to upload a file.
+
+Acceptance Criteria:
+
+The phone number must include alphanumeric and lowercase.
+The search query date must be in the format YYYY-MM-DD.
+The date of birth should contain special characters values.
+The quantity time must be hh:mm:ss.
+The file name is optional.
+
+294. As a client, I want to register for an account.
+
+Acceptance Criteria:
+
+The password accepts uppercase with minimum of five.
+The title must be alphanumeric and greater than four.
+The title date must be in the format DD/MM/YYYY.
+The review must have a minimum of six lowercase characters.
+The account number must be alphanumeric and exactly six.
+
+295. As a developer, I want to view my profile.
+
+Acceptance Criteria:
+
+The search query is required.
+The email accepts uppercase with length of eight.
+The phone number must be less than nine characters.
+
+296. As a employee, I want to book an appointment.
+
+Acceptance Criteria:
+
+The file name is optional.
+The date of birth cannot contain uppercase.
+
+297. As a doctor, I want to write a review.
+
+Acceptance Criteria:
+
+The file name cannot contain alphanumeric.
+The quantity email must be valid format.
+The price cannot contain alphabetic.
+The zip code must be less than two characters.
+
+298. As a admin, I want to search for products.
+
+Acceptance Criteria:
+
+The phone number should contain special characters values.
+The price should not begin with digits.
+The dob must be special characters and minimum of five.
+The zip code accepts numbers with length of eight.
+The review is required.
+
+299. As a client, I want to send a message.
+
+Acceptance Criteria:
+
+The zip code accepts uppercase with maximum of ten.
+The title should be greater than nine characters.
+The review must have a minimum of four special characters characters.
+The phone number accepts numbers with minimum of five.
+
+300. As a client, I want to transfer money.
+
+Acceptance Criteria:
+
+The mailid should contain special characters values.
+The mailid should be less than seven lowercase.
+
+301. As a teacher, I want to submit a form.
+
+Acceptance Criteria:
+
+The phone number is optional.
+The transaction id accepts lowercase with length of eight.
+The address must be uppercase and less than seven.
+The mailid should be greater than four characters.
+
+302. As a tester, I want to generate a report.
+
+Acceptance Criteria:
+
+The price should be exactly six numbers.
+The email cannot contain numbers.
+The phone number should contain lowercase values.
+The username should be less than seven alphanumeric.
+
+303. As a shopper, I want to send a message.
+
+Acceptance Criteria:
+
+The username should be between five and ten alphabetic.
+The username is required.
+The email time must be hh:mm:ss.
+
+304. As a doctor, I want to view my profile.
+
+Acceptance Criteria:
+
+The search query email must be valid format.
+The mailid cannot contain numeric.
+The quantity time must be HH:MM.
+The file name time must be hh:mm:ss.
+The file name must be lowercase and minimum of five.
+
+305. As a student, I want to transfer money.
+
+Acceptance Criteria:
+
+The phone number is optional.
+The title is required.
+
+306. As a manager, I want to view my profile.
+
+Acceptance Criteria:
+
+The password must have a minimum of eight numbers characters.
+The description must be less than five characters.
+The price must have a minimum of six special characters characters.
+The username should be greater than four alphabetic.
+
+307. As a candidate, I want to update my settings.
+
+Acceptance Criteria:
+
+The description should contain lowercase values.
+The file name accepts numeric with exactly six.
+The dob date must be in the format YYYY-MM-DD.
+The quantity time must be HH:MM.
+
+308. As a admin, I want to view my profile.
+
+Acceptance Criteria:
+
+The search query should not begin with digits.
+The transaction id must be numbers and length of eight.
+The review email must be valid format.
+The description email must be valid format.
+
+309. As a patient, I want to submit a form.
+
+Acceptance Criteria:
+
+The review cannot contain digits.
+The address cannot contain lowercase.
+The phone number should not begin with letters.
+
+310. As a developer, I want to apply for a job.
+
+Acceptance Criteria:
+
+The title should contain letters values.
+The file name time must be HH:MM.
+The account number is optional.
+The review must be alphabetic and greater than four.
+
+311. As a shopper, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The date of birth must include numbers and lowercase.
+The zip code cannot contain special characters.
+The zip code accepts lowercase with maximum of ten.
+The search query must be less than seven characters.
+The phone number date must be in the format MM/DD/YYYY.
+
+312. As a student, I want to view my profile.
+
+Acceptance Criteria:
+
+The search query is optional.
+The title should be greater than four numbers.
+The password is required.
+
+313. As a tester, I want to apply for a job.
+
+Acceptance Criteria:
+
+The username must include numeric and uppercase.
+The account number is required.
+The zip code date must be in the format YYYY-MM-DD.
+The email must include numbers and special characters.
+The date of birth must be digits and at least three.
+
+314. As a customer, I want to view my profile.
+
+Acceptance Criteria:
+
+The phone number must have a minimum of eight letters characters.
+The zip code date must be in the format DD/MM/YYYY.
+The age must include lowercase and uppercase.
+The email must be uppercase and between five and ten.
+The mailid time must be HH:MM.
+
+315. As a admin, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The quantity time must be HH:MM.
+The search query must have a minimum of one letters characters.
+The email must have a minimum of ten numeric characters.
+
+316. As a teacher, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The comment should be greater than six characters.
+The dob should not begin with alphabetic.
+The address must have a minimum of eight uppercase characters.
+The search query must have a minimum of three digits characters.
+
+317. As a manager, I want to send a message.
+
+Acceptance Criteria:
+
+The username should contain alphanumeric values.
+The description email must be valid format.
+The quantity is optional.
+The phone number must be less than two characters.
+
+318. As a developer, I want to write a review.
+
+Acceptance Criteria:
+
+The dob cannot contain numbers.
+The account number should be exactly six letters.
+The transaction id accepts alphabetic with length of eight.
+
+319. As a doctor, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The price must be less than eight characters.
+The phone number must include lowercase and numbers.
+The mailid should be at least three letters.
+The dob accepts alphanumeric with less than seven.
+
+320. As a manager, I want to reset my password.
+
+Acceptance Criteria:
+
+The age email must be valid format.
+The mailid must be less than seven characters.
+The email date must be in the format YYYY-MM-DD.
+
+321. As a manager, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The phone number accepts uppercase with between five and ten.
+The title date must be in the format DD/MM/YYYY.
+The age is required.
+The zip code email must be valid format.
+
+322. As a developer, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The account number should be greater than four characters.
+The title email must be valid format.
+
+323. As a frequent traveler, I want to send a message.
+
+Acceptance Criteria:
+
+The comment time must be HH:MM.
+The search query is required.
+The age should contain alphabetic values.
+The age accepts alphabetic with less than seven.
+
+324. As a customer, I want to view my profile.
+
+Acceptance Criteria:
+
+The date of birth time must be hh:mm:ss.
+The account number should be greater than eight characters.
+The address must have a minimum of six alphanumeric characters.
+
+325. As a manager, I want to generate a report.
+
+Acceptance Criteria:
+
+The description cannot contain letters.
+The password must have a minimum of four special characters characters.
+The zip code accepts numeric with exactly six.
+The price should be greater than five characters.
+The search query accepts numeric with less than seven.
+
+326. As a candidate, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The review should be greater than six characters.
+The search query is optional.
+The dob must be numeric and minimum of five.
+The price should be exactly six lowercase.
+The review date must be in the format MM/DD/YYYY.
+
+327. As a customer, I want to login to the system.
+
+Acceptance Criteria:
+
+The search query must be less than ten characters.
+The file name must be less than eight characters.
+The quantity must include lowercase and alphanumeric.
+The transaction id should contain uppercase values.
+The price should contain uppercase values.
+
+328. As a developer, I want to view my profile.
+
+Acceptance Criteria:
+
+The account number should be at least three lowercase.
+The zip code is required.
+
+329. As a student, I want to register for an account.
+
+Acceptance Criteria:
+
+The password cannot contain alphabetic.
+The password must be alphabetic and exactly six.
+The comment is optional.
+The file name is required.
+The comment must have a minimum of three uppercase characters.
+
+330. As a student, I want to send a message.
+
+Acceptance Criteria:
+
+The mailid date must be in the format MM/DD/YYYY.
+The username is optional.
+The date of birth should not begin with numeric.
+The description must include letters and alphanumeric.
+The zip code is required.
+
+331. As a tester, I want to transfer money.
+
+Acceptance Criteria:
+
+The file name should be greater than nine characters.
+The password must be less than two characters.
+
+332. As a tester, I want to submit a form.
+
+Acceptance Criteria:
+
+The age is required.
+The price accepts special characters with minimum of five.
+The age must include special characters and numbers.
+The quantity should contain letters values.
+
+333. As a event attendee, I want to submit a form.
+
+Acceptance Criteria:
+
+The file name should be greater than ten characters.
+The password should be exactly six numeric.
+The phone number is optional.
+The title accepts alphabetic with less than seven.
+The email time must be HH:MM.
+
+334. As a tester, I want to register for an account.
+
+Acceptance Criteria:
+
+The mailid must include alphabetic and numeric.
+The description is optional.
+
+335. As a frequent traveler, I want to upload a file.
+
+Acceptance Criteria:
+
+The username must include letters and letters.
+The file name is required.
+The transaction id is required.
+The quantity is optional.
+
+336. As a tester, I want to transfer money.
+
+Acceptance Criteria:
+
+The quantity is required.
+The title should contain lowercase values.
+
+337. As a manager, I want to reset my password.
+
+Acceptance Criteria:
+
+The phone number must be letters and length of eight.
+The date of birth time must be HH:MM.
+
+338. As a developer, I want to search for products.
+
+Acceptance Criteria:
+
+The description must have a minimum of seven digits characters.
+The quantity is required.
+The date of birth is optional.
+
+339. As a doctor, I want to update my settings.
+
+Acceptance Criteria:
+
+The review should be exactly six numbers.
+The zip code time must be HH:MM.
+
+340. As a candidate, I want to apply for a job.
+
+Acceptance Criteria:
+
+The transaction id time must be HH:MM.
+The username cannot contain alphanumeric.
+The transaction id must include numeric and lowercase.
+
+341. As a student, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The file name must be lowercase and at least three.
+The title accepts digits with at least three.
+The review accepts letters with between five and ten.
+
+342. As a shopper, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The email cannot contain lowercase.
+The dob is optional.
+The zip code must be less than ten characters.
+The age must include numeric and alphabetic.
+The mailid email must be valid format.
+
+343. As a event attendee, I want to transfer money.
+
+Acceptance Criteria:
+
+The comment must include digits and numeric.
+The address must include alphabetic and alphabetic.
+The comment must include digits and lowercase.
+The search query is required.
+The quantity email must be valid format.
+
+344. As a admin, I want to upload a file.
+
+Acceptance Criteria:
+
+The transaction id is required.
+The phone number email must be valid format.
+The mailid should be greater than two characters.
+The password should not begin with letters.
+
+345. As a frequent traveler, I want to register for an account.
+
+Acceptance Criteria:
+
+The transaction id accepts uppercase with length of eight.
+The title should contain lowercase values.
+The email should not begin with alphanumeric.
+
+346. As a admin, I want to update my settings.
+
+Acceptance Criteria:
+
+The zip code should be greater than six characters.
+The phone number date must be in the format YYYY-MM-DD.
+The address should not begin with digits.
+The file name cannot contain letters.
+The username must include numeric and digits.
+
+347. As a user, I want to upload a file.
+
+Acceptance Criteria:
+
+The age date must be in the format DD/MM/YYYY.
+The comment must be less than nine characters.
+
+348. As a customer, I want to register for an account.
+
+Acceptance Criteria:
+
+The quantity cannot contain alphanumeric.
+The transaction id email must be valid format.
+The address date must be in the format YYYY-MM-DD.
+
+349. As a client, I want to submit a form.
+
+Acceptance Criteria:
+
+The quantity should contain alphabetic values.
+The description must have a minimum of eight alphanumeric characters.
+The transaction id accepts numbers with greater than four.
+The username cannot contain letters.
+
+350. As a shopper, I want to register for an account.
+
+Acceptance Criteria:
+
+The mailid accepts numeric with at least three.
+The username must be alphanumeric and between five and ten.
+
+351. As a employee, I want to book an appointment.
+
+Acceptance Criteria:
+
+The email must be letters and at least three.
+The password should not begin with special characters.
+The quantity should be greater than three characters.
+The quantity must have a minimum of eight lowercase characters.
+The mailid cannot contain uppercase.
+
+352. As a tester, I want to apply for a job.
+
+Acceptance Criteria:
+
+The title must be numbers and length of eight.
+The zip code should not begin with digits.
+The file name is required.
+
+353. As a customer, I want to apply for a job.
+
+Acceptance Criteria:
+
+The dob time must be HH:MM.
+The date of birth should be greater than seven characters.
+The age is optional.
+The address date must be in the format MM/DD/YYYY.
+
+354. As a doctor, I want to search for products.
+
+Acceptance Criteria:
+
+The title should be length of eight letters.
+The quantity should be at least three lowercase.
+The phone number must include numeric and numbers.
+The file name email must be valid format.
+
+355. As a candidate, I want to login to the system.
+
+Acceptance Criteria:
+
+The age must include uppercase and uppercase.
+The comment date must be in the format MM/DD/YYYY.
+The account number is optional.
+The mailid date must be in the format YYYY-MM-DD.
+The file name must be numbers and greater than four.
+
+356. As a event attendee, I want to generate a report.
+
+Acceptance Criteria:
+
+The age should be greater than seven characters.
+The date of birth is required.
+The mailid date must be in the format MM/DD/YYYY.
+The price must be alphabetic and maximum of ten.
+
+357. As a candidate, I want to reset my password.
+
+Acceptance Criteria:
+
+The phone number should be less than seven alphabetic.
+The mailid accepts alphanumeric with greater than four.
+The mailid must be special characters and less than seven.
+The account number email must be valid format.
+The description date must be in the format MM/DD/YYYY.
+
+358. As a frequent traveler, I want to view my profile.
+
+Acceptance Criteria:
+
+The username time must be hh:mm:ss.
+The date of birth must be less than four characters.
+The password date must be in the format YYYY-MM-DD.
+The title should not begin with lowercase.
+
+359. As a candidate, I want to login to the system.
+
+Acceptance Criteria:
+
+The zip code should not begin with numbers.
+The search query should be greater than three characters.
+The price must be alphanumeric and exactly six.
+The username is required.
+
+360. As a tester, I want to update my settings.
+
+Acceptance Criteria:
+
+The price should contain alphanumeric values.
+The review time must be HH:MM.
+The file name is required.
+The description date must be in the format YYYY-MM-DD.
+The password should contain uppercase values.
+
+361. As a customer, I want to send a message.
+
+Acceptance Criteria:
+
+The mailid time must be hh:mm:ss.
+The description must be numeric and less than seven.
+The zip code cannot contain alphabetic.
+The price email must be valid format.
+
+362. As a client, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The dob should be greater than nine characters.
+The username time must be hh:mm:ss.
+
+363. As a patient, I want to generate a report.
+
+Acceptance Criteria:
+
+The description must have a minimum of nine alphabetic characters.
+The mailid must have a minimum of ten special characters characters.
+The comment is required.
+The title time must be HH:MM.
+The mailid is required.
+
+364. As a candidate, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The phone number should be at least three alphabetic.
+The mailid date must be in the format MM/DD/YYYY.
+
+365. As a doctor, I want to login to the system.
+
+Acceptance Criteria:
+
+The search query time must be HH:MM.
+The address date must be in the format YYYY-MM-DD.
+The price should not begin with special characters.
+The mailid is required.
+The zip code date must be in the format YYYY-MM-DD.
+
+366. As a frequent traveler, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The date of birth should be greater than four digits.
+The price should be greater than four special characters.
+The address should not begin with numbers.
+
+367. As a customer, I want to reset my password.
+
+Acceptance Criteria:
+
+The description must be less than seven characters.
+The mailid must be less than seven characters.
+The quantity accepts letters with exactly six.
+
+368. As a event attendee, I want to view my profile.
+
+Acceptance Criteria:
+
+The zip code should be greater than one characters.
+The account number email must be valid format.
+The transaction id must include alphabetic and alphanumeric.
+The file name should contain numbers values.
+The search query should be between five and ten special characters.
+
+369. As a shopper, I want to apply for a job.
+
+Acceptance Criteria:
+
+The phone number must be numbers and length of eight.
+The address should contain alphanumeric values.
+The zip code email must be valid format.
+
+370. As a tester, I want to view my profile.
+
+Acceptance Criteria:
+
+The review accepts uppercase with at least three.
+The phone number must include special characters and uppercase.
+The email must have a minimum of six special characters characters.
+The account number is optional.
+
+371. As a admin, I want to register for an account.
+
+Acceptance Criteria:
+
+The password cannot contain uppercase.
+The account number should be greater than five characters.
+
+372. As a student, I want to transfer money.
+
+Acceptance Criteria:
+
+The date of birth must be alphabetic and at least three.
+The email is required.
+
+373. As a teacher, I want to login to the system.
+
+Acceptance Criteria:
+
+The zip code time must be HH:MM.
+The title should contain lowercase values.
+The mailid should be greater than nine characters.
+The date of birth should be greater than seven characters.
+
+374. As a candidate, I want to register for an account.
+
+Acceptance Criteria:
+
+The dob should be greater than one characters.
+The account number email must be valid format.
+
+375. As a client, I want to search for products.
+
+Acceptance Criteria:
+
+The transaction id is optional.
+The password is optional.
+
+376. As a doctor, I want to login to the system.
+
+Acceptance Criteria:
+
+The dob cannot contain special characters.
+The comment must include special characters and alphabetic.
+The transaction id must have a minimum of five alphabetic characters.
+The account number is required.
+
+377. As a shopper, I want to update my settings.
+
+Acceptance Criteria:
+
+The transaction id should be minimum of five lowercase.
+The transaction id email must be valid format.
+The age is optional.
+The zip code should contain uppercase values.
+The username should not begin with numbers.
+
+378. As a customer, I want to register for an account.
+
+Acceptance Criteria:
+
+The account number should be minimum of five lowercase.
+The username time must be HH:MM.
+The quantity should not begin with uppercase.
+
+379. As a patient, I want to send a message.
+
+Acceptance Criteria:
+
+The comment accepts lowercase with maximum of ten.
+The date of birth cannot contain numbers.
+The username cannot contain lowercase.
+
+380. As a teacher, I want to book an appointment.
+
+Acceptance Criteria:
+
+The price must be less than two characters.
+The phone number accepts lowercase with maximum of ten.
+
+381. As a candidate, I want to transfer money.
+
+Acceptance Criteria:
+
+The address must be lowercase and minimum of five.
+The quantity accepts lowercase with between five and ten.
+The date of birth should contain uppercase values.
+
+382. As a manager, I want to send a message.
+
+Acceptance Criteria:
+
+The username should be greater than ten characters.
+The username must include alphanumeric and numeric.
+
+383. As a patient, I want to write a review.
+
+Acceptance Criteria:
+
+The address must include uppercase and alphabetic.
+The file name must be uppercase and greater than four.
+The file name accepts digits with exactly six.
+The username must include numbers and letters.
+The quantity email must be valid format.
+
+384. As a client, I want to search for products.
+
+Acceptance Criteria:
+
+The description accepts letters with exactly six.
+The quantity should be maximum of ten numbers.
+
+385. As a student, I want to send a message.
+
+Acceptance Criteria:
+
+The transaction id accepts special characters with less than seven.
+The password should be less than seven alphanumeric.
+The address is optional.
+The password date must be in the format YYYY-MM-DD.
+
+386. As a frequent traveler, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The username cannot contain lowercase.
+The quantity must be lowercase and greater than four.
+The review should be greater than four letters.
+
+387. As a event attendee, I want to upload a file.
+
+Acceptance Criteria:
+
+The file name time must be hh:mm:ss.
+The dob must include alphabetic and alphanumeric.
+
+388. As a manager, I want to search for products.
+
+Acceptance Criteria:
+
+The description must have a minimum of four digits characters.
+The account number is optional.
+
+389. As a shopper, I want to apply for a job.
+
+Acceptance Criteria:
+
+The title should contain alphanumeric values.
+The price must have a minimum of three alphabetic characters.
+The review should contain digits values.
+The password must have a minimum of ten lowercase characters.
+The date of birth cannot contain special characters.
+
+390. As a admin, I want to transfer money.
+
+Acceptance Criteria:
+
+The dob time must be HH:MM.
+The account number email must be valid format.
+The password is optional.
+
+391. As a doctor, I want to search for products.
+
+Acceptance Criteria:
+
+The email is required.
+The address time must be HH:MM.
+The age is required.
+The description cannot contain lowercase.
+The zip code should not begin with numbers.
+
+392. As a tester, I want to update my settings.
+
+Acceptance Criteria:
+
+The address cannot contain alphabetic.
+The comment is required.
+The zip code must have a minimum of four alphabetic characters.
+The zip code is required.
+The description is required.
+
+393. As a manager, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The age must have a minimum of six digits characters.
+The quantity must have a minimum of three alphabetic characters.
+The transaction id time must be HH:MM.
+
+394. As a employee, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The password accepts alphanumeric with less than seven.
+The mailid must include numbers and lowercase.
+The mailid should be greater than ten characters.
+The account number is optional.
+
+395. As a developer, I want to send a message.
+
+Acceptance Criteria:
+
+The description email must be valid format.
+The phone number should contain digits values.
+
+396. As a doctor, I want to reset my password.
+
+Acceptance Criteria:
+
+The phone number should be between five and ten letters.
+The date of birth should not begin with lowercase.
+The title must be less than one characters.
+
+397. As a client, I want to book an appointment.
+
+Acceptance Criteria:
+
+The dob cannot contain alphanumeric.
+The file name email must be valid format.
+The account number must include alphanumeric and digits.
+
+398. As a employee, I want to update my settings.
+
+Acceptance Criteria:
+
+The password should be greater than six characters.
+The search query is optional.
+The file name date must be in the format DD/MM/YYYY.
+
+399. As a admin, I want to search for products.
+
+Acceptance Criteria:
+
+The title cannot contain alphanumeric.
+The phone number time must be hh:mm:ss.
+The date of birth must be numbers and greater than four.
+The email accepts numbers with minimum of five.
+The file name date must be in the format MM/DD/YYYY.
+
+400. As a shopper, I want to login to the system.
+
+Acceptance Criteria:
+
+The email must be less than one characters.
+The zip code is optional.
+
+401. As a event attendee, I want to send a message.
+
+Acceptance Criteria:
+
+The title date must be in the format MM/DD/YYYY.
+The password date must be in the format MM/DD/YYYY.
+
+402. As a tester, I want to login to the system.
+
+Acceptance Criteria:
+
+The description is optional.
+The transaction id accepts lowercase with maximum of ten.
+The phone number should be minimum of five digits.
+
+403. As a developer, I want to update my settings.
+
+Acceptance Criteria:
+
+The account number should be greater than four characters.
+The title must include numbers and numbers.
+The title email must be valid format.
+The search query should not begin with digits.
+
+404. As a client, I want to write a review.
+
+Acceptance Criteria:
+
+The review accepts numeric with greater than four.
+The username is optional.
+The dob should be greater than nine characters.
+
+405. As a manager, I want to update my settings.
+
+Acceptance Criteria:
+
+The account number must include alphabetic and lowercase.
+The title email must be valid format.
+The quantity should be length of eight letters.
+The search query is optional.
+The mailid is optional.
+
+406. As a frequent traveler, I want to send a message.
+
+Acceptance Criteria:
+
+The search query should be greater than seven characters.
+The transaction id is required.
+The mailid time must be hh:mm:ss.
+
+407. As a admin, I want to search for products.
+
+Acceptance Criteria:
+
+The comment must be uppercase and exactly six.
+The mailid is optional.
+
+408. As a doctor, I want to reset my password.
+
+Acceptance Criteria:
+
+The search query must include uppercase and alphabetic.
+The zip code should be at least three alphanumeric.
+The transaction id is optional.
+The search query time must be HH:MM.
+
+409. As a customer, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The email email must be valid format.
+The transaction id accepts digits with less than seven.
+The dob must be uppercase and greater than four.
+The review should not begin with special characters.
+The phone number accepts numeric with between five and ten.
+
+410. As a tester, I want to view my profile.
+
+Acceptance Criteria:
+
+The dob should be maximum of ten digits.
+The comment email must be valid format.
+The account number should contain alphanumeric values.
+The description must be less than seven characters.
+
+411. As a student, I want to send a message.
+
+Acceptance Criteria:
+
+The title email must be valid format.
+The age cannot contain alphabetic.
+
+412. As a candidate, I want to book an appointment.
+
+Acceptance Criteria:
+
+The email must include numbers and numeric.
+The address email must be valid format.
+The zip code must have a minimum of one alphabetic characters.
+
+413. As a employee, I want to reset my password.
+
+Acceptance Criteria:
+
+The file name is optional.
+The account number accepts alphanumeric with minimum of five.
+The email is optional.
+
+414. As a candidate, I want to register for an account.
+
+Acceptance Criteria:
+
+The address must include numeric and digits.
+The username must be less than five characters.
+The email time must be hh:mm:ss.
+The mailid should be greater than five characters.
+
+415. As a admin, I want to search for products.
+
+Acceptance Criteria:
+
+The search query should be minimum of five lowercase.
+The password must include letters and alphabetic.
+The date of birth should not begin with letters.
+
+416. As a developer, I want to book an appointment.
+
+Acceptance Criteria:
+
+The transaction id must be less than eight characters.
+The account number should not begin with digits.
+
+417. As a event attendee, I want to login to the system.
+
+Acceptance Criteria:
+
+The zip code is optional.
+The username accepts lowercase with length of eight.
+
+418. As a teacher, I want to send a message.
+
+Acceptance Criteria:
+
+The review must be alphabetic and maximum of ten.
+The address accepts uppercase with exactly six.
+The address is required.
+The dob email must be valid format.
+The dob date must be in the format YYYY-MM-DD.
+
+419. As a teacher, I want to write a review.
+
+Acceptance Criteria:
+
+The phone number should not begin with special characters.
+The quantity must have a minimum of three uppercase characters.
+The address date must be in the format MM/DD/YYYY.
+
+420. As a customer, I want to generate a report.
+
+Acceptance Criteria:
+
+The search query must be less than three characters.
+The quantity is optional.
+The date of birth must be alphanumeric and exactly six.
+
+421. As a customer, I want to view my profile.
+
+Acceptance Criteria:
+
+The date of birth should contain lowercase values.
+The zip code should be greater than seven characters.
+The address email must be valid format.
+The price time must be hh:mm:ss.
+The username email must be valid format.
+
+422. As a event attendee, I want to upload a file.
+
+Acceptance Criteria:
+
+The phone number must include letters and alphabetic.
+The zip code is optional.
+The file name should be exactly six numbers.
+The review must be less than seven characters.
+
+423. As a frequent traveler, I want to apply for a job.
+
+Acceptance Criteria:
+
+The zip code time must be hh:mm:ss.
+The search query must be less than two characters.
+The price must include alphabetic and lowercase.
+The password should be exactly six special characters.
+
+424. As a tester, I want to search for products.
+
+Acceptance Criteria:
+
+The username should not begin with numeric.
+The transaction id email must be valid format.
+
+425. As a user, I want to upload a file.
+
+Acceptance Criteria:
+
+The search query must be lowercase and at least three.
+The file name is optional.
+
+426. As a event attendee, I want to search for products.
+
+Acceptance Criteria:
+
+The search query time must be hh:mm:ss.
+The username is optional.
+The transaction id must include uppercase and special characters.
+The comment accepts alphanumeric with minimum of five.
+The age date must be in the format DD/MM/YYYY.
+
+427. As a customer, I want to login to the system.
+
+Acceptance Criteria:
+
+The file name should be less than seven digits.
+The description date must be in the format DD/MM/YYYY.
+The comment accepts alphanumeric with length of eight.
+The username accepts digits with maximum of ten.
+The quantity time must be HH:MM.
+
+428. As a tester, I want to apply for a job.
+
+Acceptance Criteria:
+
+The account number must be letters and length of eight.
+The transaction id should contain letters values.
+The age is required.
+
+429. As a employee, I want to submit a form.
+
+Acceptance Criteria:
+
+The password email must be valid format.
+The phone number should be greater than ten characters.
+The quantity must be alphanumeric and exactly six.
+
+430. As a frequent traveler, I want to apply for a job.
+
+Acceptance Criteria:
+
+The search query is optional.
+The comment is optional.
+The review is required.
+
+431. As a admin, I want to submit a form.
+
+Acceptance Criteria:
+
+The mailid email must be valid format.
+The comment must be lowercase and greater than four.
+The quantity should be exactly six numeric.
+
+432. As a tester, I want to register for an account.
+
+Acceptance Criteria:
+
+The search query should not begin with numeric.
+The price accepts alphabetic with maximum of ten.
+The transaction id must include numeric and alphabetic.
+The address must be less than nine characters.
+The password email must be valid format.
+
+433. As a doctor, I want to upload a file.
+
+Acceptance Criteria:
+
+The file name is required.
+The mailid must be less than one characters.
+The file name must be alphabetic and greater than four.
+
+434. As a user, I want to update my settings.
+
+Acceptance Criteria:
+
+The file name cannot contain letters.
+The phone number should contain special characters values.
+The dob date must be in the format MM/DD/YYYY.
+
+435. As a doctor, I want to update my settings.
+
+Acceptance Criteria:
+
+The email must have a minimum of three numbers characters.
+The dob accepts special characters with between five and ten.
+The email must include special characters and letters.
+The email must have a minimum of six numeric characters.
+The description time must be HH:MM.
+
+436. As a frequent traveler, I want to register for an account.
+
+Acceptance Criteria:
+
+The search query email must be valid format.
+The date of birth must be lowercase and maximum of ten.
+The password is required.
+The description accepts special characters with less than seven.
+
+437. As a customer, I want to upload a file.
+
+Acceptance Criteria:
+
+The username accepts uppercase with minimum of five.
+The zip code must have a minimum of five numeric characters.
+The password should contain numbers values.
+The age cannot contain special characters.
+The phone number date must be in the format YYYY-MM-DD.
+
+438. As a shopper, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The phone number accepts numbers with maximum of ten.
+The mailid should not begin with numbers.
+The search query accepts alphabetic with between five and ten.
+The dob is optional.
+The email should be greater than five characters.
+
+439. As a customer, I want to transfer money.
+
+Acceptance Criteria:
+
+The email should contain numbers values.
+The price cannot contain alphanumeric.
+The account number should be greater than two characters.
+
+440. As a student, I want to generate a report.
+
+Acceptance Criteria:
+
+The zip code must include alphanumeric and letters.
+The date of birth cannot contain lowercase.
+The quantity date must be in the format MM/DD/YYYY.
+The date of birth should be exactly six numeric.
+
+441. As a customer, I want to write a review.
+
+Acceptance Criteria:
+
+The review cannot contain lowercase.
+The file name date must be in the format YYYY-MM-DD.
+The zip code date must be in the format MM/DD/YYYY.
+The quantity date must be in the format DD/MM/YYYY.
+The price must be less than two characters.
+
+442. As a user, I want to transfer money.
+
+Acceptance Criteria:
+
+The zip code must be less than two characters.
+The address must include alphabetic and digits.
+The zip code must include digits and uppercase.
+The search query time must be HH:MM.
+The password email must be valid format.
+
+443. As a admin, I want to generate a report.
+
+Acceptance Criteria:
+
+The transaction id email must be valid format.
+The email should be greater than ten characters.
+
+444. As a client, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The address must include alphanumeric and numeric.
+The quantity must include numeric and alphanumeric.
+The mailid must be less than four characters.
+The comment must include lowercase and digits.
+The description should contain special characters values.
+
+445. As a employee, I want to write a review.
+
+Acceptance Criteria:
+
+The email must be less than four characters.
+The username cannot contain uppercase.
+
+446. As a student, I want to view my profile.
+
+Acceptance Criteria:
+
+The title is optional.
+The comment should be greater than four characters.
+
+447. As a developer, I want to generate a report.
+
+Acceptance Criteria:
+
+The review is required.
+The username should be greater than four alphanumeric.
+
+448. As a client, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The username should be less than seven uppercase.
+The phone number accepts digits with at least three.
+The mailid accepts lowercase with between five and ten.
+The username must have a minimum of two uppercase characters.
+The dob must be less than six characters.
+
+449. As a candidate, I want to search for products.
+
+Acceptance Criteria:
+
+The file name is optional.
+The address must be less than nine characters.
+The email email must be valid format.
+
+450. As a candidate, I want to register for an account.
+
+Acceptance Criteria:
+
+The description must include letters and alphanumeric.
+The email should be greater than eight characters.
+The password date must be in the format DD/MM/YYYY.
+The search query accepts numbers with minimum of five.
+
+451. As a manager, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The dob should not begin with digits.
+The password date must be in the format MM/DD/YYYY.
+
+452. As a candidate, I want to search for products.
+
+Acceptance Criteria:
+
+The address time must be hh:mm:ss.
+The zip code accepts numeric with at least three.
+The password email must be valid format.
+
+453. As a admin, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The dob should be exactly six lowercase.
+The phone number should contain digits values.
+The password accepts alphanumeric with minimum of five.
+
+454. As a event attendee, I want to register for an account.
+
+Acceptance Criteria:
+
+The password accepts digits with at least three.
+The password cannot contain lowercase.
+The password must include special characters and digits.
+The account number must have a minimum of one digits characters.
+The mailid should be greater than five characters.
+
+455. As a frequent traveler, I want to upload a file.
+
+Acceptance Criteria:
+
+The account number should contain uppercase values.
+The title time must be HH:MM.
+The address should be greater than seven characters.
+
+456. As a doctor, I want to search for products.
+
+Acceptance Criteria:
+
+The address must include numbers and letters.
+The price time must be HH:MM.
+The email should be minimum of five alphabetic.
+
+457. As a tester, I want to search for products.
+
+Acceptance Criteria:
+
+The quantity must include uppercase and uppercase.
+The file name cannot contain alphanumeric.
+The phone number time must be HH:MM.
+The file name is optional.
+The dob should not begin with special characters.
+
+458. As a employee, I want to update my settings.
+
+Acceptance Criteria:
+
+The review should contain digits values.
+The quantity is required.
+The username should not begin with special characters.
+The quantity should be greater than ten characters.
+
+459. As a employee, I want to apply for a job.
+
+Acceptance Criteria:
+
+The description must be less than three characters.
+The age should contain special characters values.
+
+460. As a tester, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The email should contain alphanumeric values.
+The age must be digits and minimum of five.
+
+461. As a manager, I want to write a review.
+
+Acceptance Criteria:
+
+The mailid should be less than seven letters.
+The account number must have a minimum of six numeric characters.
+The account number accepts lowercase with less than seven.
+
+462. As a frequent traveler, I want to book an appointment.
+
+Acceptance Criteria:
+
+The search query cannot contain numeric.
+The password time must be hh:mm:ss.
+The dob should be greater than six characters.
+The price must be alphanumeric and between five and ten.
+
+463. As a developer, I want to search for products.
+
+Acceptance Criteria:
+
+The email must have a minimum of two alphanumeric characters.
+The mailid must have a minimum of two numbers characters.
+The password email must be valid format.
+
+464. As a doctor, I want to update my settings.
+
+Acceptance Criteria:
+
+The quantity must have a minimum of two numeric characters.
+The comment must be numbers and minimum of five.
+
+465. As a shopper, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The account number cannot contain alphanumeric.
+The search query time must be hh:mm:ss.
+The quantity time must be HH:MM.
+The search query date must be in the format DD/MM/YYYY.
+The address must be numeric and less than seven.
+
+466. As a patient, I want to write a review.
+
+Acceptance Criteria:
+
+The date of birth should contain lowercase values.
+The date of birth time must be HH:MM.
+The phone number must be alphanumeric and greater than four.
+The zip code should be at least three alphanumeric.
+
+467. As a user, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The email is required.
+The date of birth must be alphabetic and less than seven.
+The phone number is required.
+The phone number is optional.
+The mailid must have a minimum of four lowercase characters.
+
+468. As a customer, I want to send a message.
+
+Acceptance Criteria:
+
+The phone number must be less than three characters.
+The search query must include numbers and alphanumeric.
+The description must be less than eight characters.
+The comment must include numeric and numbers.
+
+469. As a admin, I want to send a message.
+
+Acceptance Criteria:
+
+The title time must be hh:mm:ss.
+The title should contain alphanumeric values.
+The date of birth is required.
+The title date must be in the format YYYY-MM-DD.
+
+470. As a teacher, I want to reset my password.
+
+Acceptance Criteria:
+
+The review cannot contain digits.
+The account number cannot contain alphanumeric.
+The title date must be in the format DD/MM/YYYY.
+The age must be less than ten characters.
+
+471. As a tester, I want to book an appointment.
+
+Acceptance Criteria:
+
+The email must include letters and digits.
+The review must have a minimum of seven letters characters.
+The transaction id should be maximum of ten digits.
+
+472. As a candidate, I want to generate a report.
+
+Acceptance Criteria:
+
+The search query should be length of eight letters.
+The mailid is required.
+The title must be digits and at least three.
+The password time must be hh:mm:ss.
+
+473. As a employee, I want to reset my password.
+
+Acceptance Criteria:
+
+The review cannot contain letters.
+The file name is optional.
+The account number accepts lowercase with exactly six.
+
+474. As a manager, I want to search for products.
+
+Acceptance Criteria:
+
+The dob date must be in the format MM/DD/YYYY.
+The search query must have a minimum of five special characters characters.
+The title should not begin with uppercase.
+The password should be at least three numbers.
+The quantity cannot contain numeric.
+
+475. As a user, I want to write a review.
+
+Acceptance Criteria:
+
+The comment time must be HH:MM.
+The account number must be special characters and exactly six.
+The username must be less than two characters.
+The title time must be hh:mm:ss.
+The password should contain numeric values.
+
+476. As a doctor, I want to register for an account.
+
+Acceptance Criteria:
+
+The date of birth accepts alphanumeric with minimum of five.
+The address must be lowercase and maximum of ten.
+The title cannot contain lowercase.
+The mailid should contain alphanumeric values.
+
+477. As a candidate, I want to reset my password.
+
+Acceptance Criteria:
+
+The zip code email must be valid format.
+The age should contain alphabetic values.
+The zip code is required.
+The phone number should be length of eight alphanumeric.
+The search query must be letters and exactly six.
+
+478. As a shopper, I want to send a message.
+
+Acceptance Criteria:
+
+The email must include alphanumeric and special characters.
+The description should be between five and ten special characters.
+
+479. As a manager, I want to login to the system.
+
+Acceptance Criteria:
+
+The account number should not begin with digits.
+The comment must be numbers and exactly six.
+The account number is required.
+The account number accepts numbers with between five and ten.
+
+480. As a admin, I want to view my profile.
+
+Acceptance Criteria:
+
+The mailid date must be in the format MM/DD/YYYY.
+The mailid should not begin with numeric.
+The dob should not begin with special characters.
+The email cannot contain letters.
+The date of birth is optional.
+
+481. As a employee, I want to login to the system.
+
+Acceptance Criteria:
+
+The description should not begin with special characters.
+The file name accepts digits with between five and ten.
+The date of birth is required.
+The password must include special characters and digits.
+
+482. As a user, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The email accepts special characters with exactly six.
+The comment must be less than seven characters.
+The search query should contain digits values.
+The transaction id must include numbers and alphanumeric.
+
+483. As a event attendee, I want to enroll in a course.
+
+Acceptance Criteria:
+
+The file name should not begin with numbers.
+The price should not begin with alphabetic.
+The age should contain letters values.
+
+484. As a user, I want to upload a file.
+
+Acceptance Criteria:
+
+The file name must be lowercase and maximum of ten.
+The file name is optional.
+The mailid must be special characters and maximum of ten.
+
+485. As a candidate, I want to login to the system.
+
+Acceptance Criteria:
+
+The account number should be at least three lowercase.
+The date of birth date must be in the format MM/DD/YYYY.
+The address date must be in the format YYYY-MM-DD.
+The password should be greater than seven characters.
+The account number email must be valid format.
+
+486. As a frequent traveler, I want to search for products.
+
+Acceptance Criteria:
+
+The zip code should contain lowercase values.
+The zip code time must be HH:MM.
+The review must be less than ten characters.
+
+487. As a manager, I want to deactivate my account.
+
+Acceptance Criteria:
+
+The transaction id should contain letters values.
+The search query date must be in the format MM/DD/YYYY.
+The dob must include lowercase and numeric.
+The description should contain alphanumeric values.
+
+488. As a tester, I want to upload a file.
+
+Acceptance Criteria:
+
+The quantity accepts lowercase with at least three.
+The quantity is required.
+
+489. As a teacher, I want to book an appointment.
+
+Acceptance Criteria:
+
+The password should not begin with numbers.
+The age time must be HH:MM.
+The transaction id is optional.
+The price should contain special characters values.
+The quantity should not begin with alphanumeric.
+
+490. As a event attendee, I want to view my profile.
+
+Acceptance Criteria:
+
+The transaction id should be minimum of five numeric.
+The phone number must have a minimum of seven lowercase characters.
+The username should be length of eight numeric.
+
+491. As a user, I want to submit a form.
+
+Acceptance Criteria:
+
+The description should be less than seven numeric.
+The review accepts uppercase with length of eight.
+The account number must be uppercase and greater than four.
+The phone number email must be valid format.
+The username must include numbers and letters.
+
+492. As a patient, I want to apply for a job.
+
+Acceptance Criteria:
+
+The description cannot contain uppercase.
+The date of birth should be at least three alphabetic.
+The zip code must have a minimum of four uppercase characters.
+The dob cannot contain alphanumeric.
+
+493. As a admin, I want to upload a file.
+
+Acceptance Criteria:
+
+The age should be greater than seven characters.
+The address must be less than one characters.
+The description must be less than four characters.
+The quantity is required.
+
+494. As a event attendee, I want to write a review.
+
+Acceptance Criteria:
+
+The password cannot contain letters.
+The file name email must be valid format.
+The review should not begin with special characters.
+
+495. As a patient, I want to submit a form.
+
+Acceptance Criteria:
+
+The quantity must be uppercase and between five and ten.
+The quantity must be less than eight characters.
+The zip code cannot contain numeric.
+
+496. As a candidate, I want to register for an account.
+
+Acceptance Criteria:
+
+The email should not begin with alphanumeric.
+The phone number must be less than ten characters.
+The zip code date must be in the format DD/MM/YYYY.
+The account number date must be in the format DD/MM/YYYY.
+The price time must be hh:mm:ss.
+
+497. As a employee, I want to submit a form.
+
+Acceptance Criteria:
+
+The transaction id email must be valid format.
+The title should be greater than three characters.
+The address must include numeric and lowercase.
+The quantity must include numeric and alphabetic.
+The address cannot contain numbers.
+
+498. As a customer, I want to book an appointment.
+
+Acceptance Criteria:
+
+The zip code must include digits and letters.
+The password is optional.
+The zip code email must be valid format.
+
+499. As a event attendee, I want to view my profile.
+
+Acceptance Criteria:
+
+The phone number email must be valid format.
+The description must be special characters and at least three.
+
+500. As a frequent traveler, I want to write a review.
+
+Acceptance Criteria:
+
+The date of birth should not begin with digits.
+The description must be alphabetic and less than seven.
+
