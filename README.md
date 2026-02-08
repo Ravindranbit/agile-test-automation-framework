@@ -202,14 +202,16 @@ The system understands written numbers:
 
 The Reinforcement Learning agent uses a custom reward function to optimize test case generation:
 
-$$R(s, a) = w_1 \cdot \mathbb{1}_{\text{valid}} + w_2 \cdot \mathbb{1}_{\text{min\_length}} + w_3 \cdot \mathbb{1}_{\text{max\_length}} + w_4 \cdot \text{TypeMatch} - w_5 \cdot \mathbb{1}_{\text{exclude}}$$
+**R(s, a) = w₁ · I(valid) + w₂ · I(min_length) + w₃ · I(max_length) + w₄ · TypeMatch - w₅ · I(exclude)**
 
 Where:
-- $w_1 = 10.0$ : Base reward for generating valid string
-- $w_2 = 20.0$ : Reward for meeting minimum length constraint
-- $w_3 = 20.0$ : Reward for meeting maximum length constraint
-- $w_4 = 15.0$ : Reward for matching required character types (alpha, numeric, special)
-- $w_5 = 5.0$ : Penalty for violating exclusion constraints
+- **w₁ = 10.0** : Base reward for generating valid string
+- **w₂ = 20.0** : Reward for meeting minimum length constraint
+- **w₃ = 20.0** : Reward for meeting maximum length constraint
+- **w₄ = 15.0** : Reward for matching required character types (alpha, numeric, special)
+- **w₅ = 5.0** : Penalty for violating exclusion constraints
+
+(I = Indicator function, evaluates to 1 if condition is true, 0 otherwise)
 
 ### Q-Learning Parameters
 
